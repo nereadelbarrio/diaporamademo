@@ -1195,29 +1195,26 @@ body.is_app .diaporamademo-navbar.ocultar {
 }
 
 .bck-enfasis-2 {
-    color: #fff;
+    color: #000;
     font-weight: 500;
-    background-color: #e7304a;
-    padding: 11px 12px 4px;
+    background-color: #EBE7E0;
+    padding: 4px 12px 4px;
     display: inline-block;
-    margin-bottom: 8px
+    margin-bottom: 8px;
+    border-radius: 9px;
 }
 
 .bck-enfasis-3 {
-    color: #ffed00;
-    font-weight: 700;
-    font-style: italic
+    color: #6E645C;
+    font-weight: 100;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 1px;
 }
 
 .bck-enfasis-4 {
-    background-color: #b3ddf0;
-    padding: 5px 5px 0;
-    font-size: 1.3rem;
-    border-radius: 3px;
-    position: relative;
-    top: 30px;
-    left: -45px;
-    z-index: 1
+    color: #005DA9;
+    font-style: italic;
 }
 
 .bck-enfasis-5 {
