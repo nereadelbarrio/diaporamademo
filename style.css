@@ -2396,30 +2396,26 @@ hr {
     display: none
 }
 
+/*caja 8*/
 .bck-box.bck-box-8 {
-    background: transparent;
+    margin-top: -2.6%;
+    position: relative;
+    left: -97px;
+    width: calc(100% + 194px);
+    padding: 0;
     border: 0;
-    text-align: left
+    max-width: calc(100% + 194px)
 }
 
-.bck-box-8>.bck-title {
-    border: 0;
-    color: #000;
-    text-align: left;
-    background: #afb2da;
-    padding: 10px 20px 0;
-    font-weight: 700
-}
-
-.bck-box.bck-box-8>.bck-content {
-    padding: 20px 27px;
-    background: #fff
+.bck-box-8>.bck-content {
+    padding: 0
 }
 
 .bck-box.bck-box-8>.bck-title:before {
     display: none
 }
 
+/*caja 9*/
 .bck-box.bck-box-9 {
     background: transparent;
     border: none;
