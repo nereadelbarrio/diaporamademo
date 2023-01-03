@@ -1034,6 +1034,8 @@ body.is_app .diaporamademo-navbar.ocultar {
     border-radius: 27px;
     border-top: 1px solid #fff;
     border-top-left-radius: 0px;
+    text-transform: uppercase;
+    font-family: 'Noto Sans';
 }
 
 .bck-title-1:before {
