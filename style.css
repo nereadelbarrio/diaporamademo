@@ -1066,40 +1066,84 @@ body.is_app .diaporamademo-navbar.ocultar {
     margin-bottom: 25px
 }
 
-.bck-title-3,.bck-title-4 {
-    color: #e7304a;
-    font-weight: 700
+.bck-title-3 {
+    color: #F18700;
+    font-size: 2.8rem;
+    padding-left: 12px;
+    padding-bottom: 7px;
+    font-weight: 700;
+    border-bottom: 3px solid #F18700;
+    border-left: 3px solid #F18700;
+    border-radius: 27px;
+    border-top: 1px solid #fff;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    text-transform: uppercase;
+    font-family: 'Noto Sans';
 }
 
 .bck-title-4 {
-    font-size: 4.3rem;
-    border-bottom: 4px solid #e7304a;
-    margin-bottom: 40px
+    color: #68B435;
+    font-size: 2.8rem;
+    padding-left: 12px;
+    padding-bottom: 7px;
+    font-weight: 700;
+    border-bottom: 3px solid #68B435;
+    border-left: 3px solid #68B435;
+    border-radius: 27px;
+    border-top: 1px solid #fff;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    text-transform: uppercase;
+    font-family: 'Noto Sans';
 }
 
 .bck-title-5 {
-    font-size: 3.7rem;
-    border-bottom: none;
-    color: #e7304a;
+    color: #FFCE36;
+    font-size: 2.8rem;
+    padding-left: 12px;
+    padding-bottom: 7px;
     font-weight: 700;
+    border-bottom: 3px solid #FFCE36;
+    border-left: 3px solid #FFCE36;
+    border-radius: 27px;
+    border-top: 1px solid #fff;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 0px;
     text-transform: uppercase;
-    margin-bottom: 25px
+    font-family: 'Noto Sans';
 }
 
 .bck-title-6 {
-    border-bottom: 4px solid #00a6ba;
-    color: #00a6ba
-}
-
-.bck-title-6,.bck-title-7 {
-    font-size: 4.3rem;
+    color: #0076BD;
+    font-size: 2.8rem;
+    padding-left: 12px;
+    padding-bottom: 7px;
     font-weight: 700;
-    margin-bottom: 40px
+    border-bottom: 3px solid #0076BD;
+    border-left: 3px solid #0076BD;
+    border-radius: 27px;
+    border-top: 1px solid #fff;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    text-transform: uppercase;
+    font-family: 'Noto Sans';
 }
 
 .bck-title-7 {
-    border-bottom: 4px solid #9e1981;
-    color: #9e1981
+    color: #22AEB9;
+    font-size: 2.8rem;
+    padding-left: 12px;
+    padding-bottom: 7px;
+    font-weight: 700;
+    border-bottom: 3px solid #22AEB9;
+    border-left: 3px solid #22AEB9;
+    border-radius: 27px;
+    border-top: 1px solid #fff;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    text-transform: uppercase;
+    font-family: 'Noto Sans';
 }
 
 .bck-title-8 {
@@ -1219,9 +1263,11 @@ body.is_app .diaporamademo-navbar.ocultar {
 
 .bck-enfasis-5 {
     color: #fff;
-    font-weight: 500;
-    background-color: #9e1981;
-    padding: 11px 12px 4px
+    font-weight: 800;
+    background-color: #68B435;
+    padding: 7px 12px 4px;
+    border-radius: 9px;
+    box-shadow: 0px 0px 8px 2px #d3d7d1;
 }
 
 .bck-enfasis-6 {
