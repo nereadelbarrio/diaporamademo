@@ -1949,29 +1949,39 @@ hr {
     margin-left: -2px;
 }
 
-#actividad .content .cke_contents .bck-ul-4,#actividad .content .texto_curso .bck-ul-4,#actividad .content .workspace ul li .bck-ul-4 {
+#actividad .content .cke_contents .bck-ul-4,
+#actividad .content .texto_curso .bck-ul-4,
+#actividad .content .workspace ul li .bck-ul-4 {
     list-style-type: none;
     margin-top: -17px
 }
 
-#actividad .content .cke_contents .bck-ul-4 li,#actividad .content .texto_curso .bck-ul-4 li,#actividad .content .workspace ul li .bck-ul-4 li,#actividad .popover-content .bck-ul-4 li {
-    padding-left: 52px;
+#actividad .content .cke_contents .bck-ul-4 li,
+#actividad .content .texto_curso .bck-ul-4 li,
+#actividad .content .workspace ul li .bck-ul-4 li,
+#actividad .popover-content .bck-ul-4 li {
+	padding-left: 50px;
     position: relative;
     list-style: none;
-    margin-bottom: 0;
-    margin-left: 8px
+    margin-bottom: 0px;
+    margin-left: 2px;
 }
 
-#actividad .content .cke_contents .bck-ul-4 li:before,#actividad .content .texto_curso ul.bck-ul-4 li:before,#actividad .content .workspace ul li ul.bck-ul-4 li:before,#actividad .popover-content ul.bck-ul-4 li:before {
+#actividad .content .cke_contents .bck-ul-4 li:before,
+#actividad .content .texto_curso ul.bck-ul-4 li:before,
+#actividad .content .workspace ul li ul.bck-ul-4 li:before,
+#actividad .popover-content ul.bck-ul-4 li:before {
     content: "";
-    height: 6px;
-    width: 6px;
-    background-color: #333;
-    color: #333;
+    height: 22px;
+    background-image: url(images/iconoflechaamarilla_diaporamademo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 22px;
+    background-color: transparent;
     border-radius: 50%;
     position: absolute;
-    margin-top: 8px;
-    margin-left: 22px
+    margin-top: 3px;
+    margin-left: 3px;
 }
 
 #actividad .content .cke_contents .bck-ul-5,#actividad .content .texto_curso .bck-ul-5,#actividad .content .workspace ul li .bck-ul-5 {
