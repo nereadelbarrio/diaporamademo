@@ -2279,35 +2279,38 @@ hr {
     display: none
 }
 
+.bck-box.bck-box-3>.bck-title p {
+    text-align: left;
+}
+
 /*caja 04*/
 .bck-box.bck-box-4 {
     background: transparent;
     border: 0;
     text-align: left;
     border-radius: 0 0 20px 20px;
-    box-shadow: 11px 9px 9px -3px #b8b8b5
 }
 
 .bck-box-4>.bck-title {
     border: 0;
-    color: #fff;
+    color: #000;
     text-align: left;
-    font-size: 2rem;
-    background: #7b603d;
-    padding: 10px 20px 0;
-    font-weight: 700
+    font-size: 18px;
+    background: #F8C421;
+    padding: 6px 17px 0;
+    font-weight: 700;
 }
 
 .bck-box.bck-box-4>.bck-content {
-    padding: 20px 27px;
-    background: #fff;
-    border-radius: 0 0 20px 20px
+    padding: 20px 17px;
+    background: #FDEAAE;
 }
 
 .bck-box.bck-box-4>.bck-title:before {
     display: none
 }
 
+/*caja 05*/
 .bck-box.bck-box-5 {
     background: transparent;
     border: none;
@@ -2317,23 +2320,24 @@ hr {
 
 .bck-box-5>.bck-title {
     border: 0;
-    color: #fff;
+    color: #000;
     text-align: left;
     font-size: 2rem;
-    background: #017c91;
+    background: #E1EFF2;
     padding: 10px 20px 0;
-    font-weight: 700
+    font-weight: 700;
 }
 
 .bck-box.bck-box-5>.bck-content {
     padding: 20px 27px;
-    background: #eff8f8
+    background: #E1EFF2;
 }
 
 .bck-box.bck-box-5>.bck-title:before {
     display: none
 }
 
+/*caja 06*/
 .bck-box.bck-box-6 {
     background: transparent;
     border: none;
@@ -2346,20 +2350,22 @@ hr {
     color: #fff;
     text-align: left;
     font-size: 2rem;
-    background: #706f6f;
+    background: #22AEB9;
     padding: 10px 20px 0;
-    font-weight: 700
+    font-weight: 700;
 }
 
 .bck-box.bck-box-6>.bck-content {
     padding: 20px 27px;
-    background: #e3e3e3
+    background: #22AEB9;
+    color: #fff;
 }
 
 .bck-box.bck-box-6>.bck-title:before {
     display: none
 }
 
+/*caja 07*/
 .bck-box.bck-box-7 {
     background: transparent;
     border: 0;
