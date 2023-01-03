@@ -2195,48 +2195,62 @@ hr {
     background: transparent
 }
 
-.bck-box.bck-box-1:after,.bck-box.bck-box-1:before {
-    display: none
-}
 
-.bck-box.bck-box.bck-box-1 {
-    background: #aedef8;
-    padding: 15px;
-    color: inherit;
-    margin-top: 0;
-    border-radius: 20px;
-    box-shadow: 5px 5px 6px 0 #bababa
-}
-
-.bck-box.bck-box-1>.bck-title {
-    color: inherit;
+/*caja 01*/
+.bck-box.bck-box-1 {
+    background: transparent;
+    border: none;
     text-align: left;
-    background-color: #aedef8;
-    padding: 10px;
     border-radius: 0
 }
 
 .bck-box.bck-box-1>.bck-content {
-    padding: 4px 10px;
-    border-bottom: none;
-    color: inherit;
-    background-color: #aedef8;
-    font-size: 2.2rem
+    padding: 1px;
+    background: #fff;
+    border: 3px solid #cdcdcb;
+    border-top: 0;
+    border-radius: 0 0 15px 15px
 }
 
+.bck-box.bck-box-1>.bck-content p {
+    margin-bottom: 5px
+}
+
+.bck-box.bck-box-1>.bck-title {
+    border: 0;
+    color: #fff;
+    border-radius: 0;
+    content: " ";
+    background-repeat: no-repeat;
+    position: relative;
+    background: url(images/icono_caja_01.PNG);
+    padding: 0 0 6px;
+    background-size: cover;
+    top: 2px;
+    left: 0;
+    width: 100%
+}
+
+.bck-box.bck-box-1:after,
+.bck-box.bck-box-1:before {
+    display: none
+}
+
+/*caja 02*/
 .bck-box.bck-box-2 {
-    background: #fad5d0;
+    background: #fff;
     border: 0;
     border-radius: 0;
     color: #333;
-    padding: 20px
+    padding: 20px;
+    box-shadow: 5px 5px 6px 0 #bababa;
 }
 
-.bck-box.bck-box-2>.bck-content,.bck-box.bck-box-2>.bck-title {
-    color: #333;
-    background: #fad5d0;
+.bck-box.bck-box-2>.bck-content,
+.bck-box.bck-box-2>.bck-title {
+	color: #333;
+    background: #fff;
     padding: 5px;
-    font-size: 2.2rem
 }
 
 .bck-box.bck-box-2>.bck-title:before {
