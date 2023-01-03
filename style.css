@@ -599,19 +599,19 @@ button.btn.btn-primary.disabled {
 }
 
 #indice .unit-content .material .item .imagen.musica:after {
-    background-image: url(assets/images/icono_audio_materialapoyo_diaporamademo.png);
+    background-image: url(images/icono_audio_materialapoyo_diaporamademo.png);
     background-color: #000;
     border-radius: 50%
 }
 
 #indice .unit-content .material .item .imagen.video:after {
-    background-image: url(assets/images/icono_video_materialapoyo_diaporamademo.png);
+    background-image: url(images/icono_video_materialapoyo_diaporamademo.png);
     background-color: #000;
     border-radius: 50%
 }
 
 #indice .unit-content .material .item .imagen.archivo:after,#indice .unit-content .material .item .imagen.pdf:after {
-    background-image: url(assets/images/icono_archivo_materialapoyo_diaporamademo.png);
+    background-image: url(images/icono_archivo_materialapoyo_diaporamademo.png);
     background-color: #000;
     border-radius: 50%
 }
@@ -646,7 +646,7 @@ button.btn.btn-primary.disabled {
     content: "";
     background-size: contain;
     top: 10px;
-    background-image: url(assets/images/logofrenchhub_diaporamademo.png)!important;
+    background-image: url(images/logofrenchhub_diaporamademo.png)!important;
     position: fixed;
     width: 80px;
     height: 40px;
@@ -669,7 +669,7 @@ button.btn.btn-primary.disabled {
     left: 10px;
     width: 100px;
     height: 44px;
-    background: url(assets/images/logofrenchhub_diaporamademo.png) 0 0 no-repeat;
+    background: url(images/logofrenchhub_diaporamademo.png) 0 0 no-repeat;
     -webkit-background-size: contain;
     -moz-background-size: contain;
     -o-background-size: contain;
@@ -958,7 +958,7 @@ body.is_app .diaporamademo-navbar.ocultar {
 }
 
 #actividad .player.audio {
-    background-image: url(assets/images/iconoaudio_diaporamademo.png);
+    background-image: url(images/iconoaudio_diaporamademo.png);
     color: #fff;
     vertical-align: middle
 }
@@ -993,7 +993,7 @@ body.is_app .diaporamademo-navbar.ocultar {
 
 .bck-file-attach:before {
     content: " ";
-    background-image: url(assets/images/icono_rubric_diaporamademo.png);
+    background-image: url(images/icono_rubric_diaporamademo.png);
     background-repeat: no-repeat;
     padding: 13px;
     background-size: contain;
@@ -2423,7 +2423,7 @@ hr {
 
 .bck-box-9 .bck-title:after {
     content: "";
-    background-image: url(assets/images/icono_box-7_diaporamademo.png);
+    background-image: url(images/icono_box-7_diaporamademo.png);
     background-repeat: no-repeat;
     background-size: contain;
     padding: 17px;
@@ -2687,7 +2687,7 @@ hr {
     content: " ";
     background-repeat: no-repeat;
     position: relative;
-    background: url(assets/images/icono_caja_03.PNG);
+    background: url(images/icono_caja_03.PNG);
     padding: 0 0 6px;
     background-size: cover;
     top: 2px;
@@ -3373,7 +3373,7 @@ hr {
 }
 
 .item-container .icon-parejas-negro:before {
-    background-image: url(assets/images/icono_enparejas_negro_diaporamademo.png);
+    background-image: url(images/icono_enparejas_negro_diaporamademo.png);
     width: 28px;
     height: 22px;
     margin-right: 5px;
@@ -3381,7 +3381,7 @@ hr {
 }
 
 .item-container .icon-personasola-negro:before {
-    background-image: url(assets/images/icono_solo_negro_diaporamademo.png);
+    background-image: url(images/icono_solo_negro_diaporamademo.png);
     width: 18px;
     height: 24px;
     margin-right: 5px;
@@ -3389,7 +3389,7 @@ hr {
 }
 
 .item-container .icon-grupos-negro:before {
-    background-image: url(assets/images/icono_engrupos_negro_diaporamademo.png);
+    background-image: url(images/icono_engrupos_negro_diaporamademo.png);
     width: 26px;
     height: 24px;
     margin-right: 5px;
@@ -3397,7 +3397,7 @@ hr {
 }
 
 .item-container .icon-video:before {
-    background-image: url(assets/images/icono_video_diaporamademo.png);
+    background-image: url(images/icono_video_diaporamademo.png);
     width: 26px;
     height: 24px;
     margin-right: 5px;
@@ -3405,21 +3405,21 @@ hr {
 }
 
 .item-container .icon-lupa:before {
-    background-image: url(assets/images/lupa_diaporamademo.png);
+    background-image: url(images/lupa_diaporamademo.png);
     margin-right: 5px;
     width: 19px;
     height: 18px
 }
 
 .item-container .icon-rubric:before {
-    background-image: url(assets/images/icono_rubric_diaporamademo.png);
+    background-image: url(images/icono_rubric_diaporamademo.png);
     width: 14px;
     height: 23px;
     margin-right: 10px
 }
 
 .item-container .icon-materials:before {
-    background-image: url(assets/images/icono_materials_diaporamademo.png);
+    background-image: url(images/icono_materials_diaporamademo.png);
     width: 19px;
     height: 23px;
     margin-right: 5px;
@@ -3427,7 +3427,7 @@ hr {
 }
 
 .item-container .icon-dados:before {
-    background-image: url(assets/images/icono_dados_negro_diaporamademo.png);
+    background-image: url(images/icono_dados_negro_diaporamademo.png);
     width: 28px;
     height: 22px;
     margin-right: 5px;
@@ -3435,7 +3435,7 @@ hr {
 }
 
 .item-container .icon-colores:before {
-    background-image: url(assets/images/icono_rueda_colores_diaporama.png);
+    background-image: url(images/icono_rueda_colores_diaporama.png);
     width: 24px;
     height: 24px;
     margin-right: 5px;
@@ -3443,7 +3443,7 @@ hr {
 }
 
 .item-container .icon-ci:before {
-    background-image: url(assets/images/icono_CI_diaporamademo.png);
+    background-image: url(images/icono_CI_diaporamademo.png);
     width: 34px;
     height: 34px;
     margin-right: 5px;
@@ -3451,7 +3451,7 @@ hr {
 }
 
 .item-container .icon-exclamacionmorada:before {
-    background-image: url(assets/images/icono_exclamacion_morada_diaporamademo.png);
+    background-image: url(images/icono_exclamacion_morada_diaporamademo.png);
     width: 24px;
     height: 24px;
     margin-right: 5px;
@@ -3459,7 +3459,7 @@ hr {
 }
 
 .item-container .icon-exclamacionmoradainversa:before {
-    background-image: url(assets/images/icono_exclamacion_moradainversa_diaporamademo.PNG);
+    background-image: url(images/icono_exclamacion_moradainversa_diaporamademo.PNG);
     width: 55px;
     height: 57px;
     margin-right: 5px;
@@ -3467,7 +3467,7 @@ hr {
 }
 
 .item-container .icon-exclamacionazulinversa:before {
-    background-image: url(assets/images/icono_exclamacion_azulinversa_diaporamademo.png);
+    background-image: url(images/icono_exclamacion_azulinversa_diaporamademo.png);
     width: 24px;
     height: 24px;
     margin-right: 5px;
@@ -3475,7 +3475,7 @@ hr {
 }
 
 .item-container .icon-exclamacionnaranja:before {
-    background-image: url(assets/images/icono_exclamacion_naranja_diaporamademo.png);
+    background-image: url(images/icono_exclamacion_naranja_diaporamademo.png);
     width: 24px;
     height: 24px;
     margin-right: 5px;
@@ -3483,7 +3483,7 @@ hr {
 }
 
 .item-container .icon-exclamaciongris:before {
-    background-image: url(assets/images/icono_exclamacion_gris_diaporamademo.png);
+    background-image: url(images/icono_exclamacion_gris_diaporamademo.png);
     width: 55px;
     height: 57px;
     margin-right: 5px;
@@ -3491,7 +3491,7 @@ hr {
 }
 
 .item-container .icon-exclamacionmarron:before {
-    background-image: url(assets/images/icono_exclamacion_marron_diaporamademo.PNG);
+    background-image: url(images/icono_exclamacion_marron_diaporamademo.PNG);
     width: 55px;
     height: 57px;
     margin-right: 5px;
@@ -3499,7 +3499,7 @@ hr {
 }
 
 .item-container .icon-exclamacion:before {
-    background-image: url(assets/images/icono_exclamacion_azul_diaporamademo.png);
+    background-image: url(images/icono_exclamacion_azul_diaporamademo.png);
     width: 55px;
     height: 57px;
     margin-right: 5px;
@@ -3507,7 +3507,7 @@ hr {
 }
 
 .item-container .icon-flechanaranja:before {
-    background-image: url(assets/images/icono_flecha_naranja_diaporamademo.png);
+    background-image: url(images/icono_flecha_naranja_diaporamademo.png);
     width: 49px;
     height: 50px;
     margin-right: 0;
@@ -3515,7 +3515,7 @@ hr {
 }
 
 .item-container .icon-audiodelf:before {
-    background-image: url(assets/images/icono_audio_DELF.png);
+    background-image: url(images/icono_audio_DELF.png);
     width: 49px;
     height: 50px;
     margin-right: 0;
@@ -3523,7 +3523,7 @@ hr {
 }
 
 .item-container .icon-lapizdelf:before {
-    background-image: url(assets/images/icono_lapiz_DELF.png);
+    background-image: url(images/icono_lapiz_DELF.png);
     width: 49px;
     height: 50px;
     margin-right: 0;
@@ -3531,7 +3531,7 @@ hr {
 }
 
 .item-container .icon-librodelf:before {
-    background-image: url(assets/images/icono_libro_DELF.png);
+    background-image: url(images/icono_libro_DELF.png);
     width: 49px;
     height: 50px;
     margin-right: 0;
@@ -3539,7 +3539,7 @@ hr {
 }
 
 .item-container .icon-hablardelf:before {
-    background-image: url(assets/images/icono_hablar_DELF.png);
+    background-image: url(images/icono_hablar_DELF.png);
     width: 61px;
     height: 50px;
     margin-right: 0;
