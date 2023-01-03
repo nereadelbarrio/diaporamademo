@@ -10,124 +10,464 @@ padre>diaporamademo*/
 }
 
 @font-face {
-    font-family: Conv_Calibre;
-    src: url(assets/fonts/Calibre-Black.eot);
-    src: local("☺"),url(assets/fonts/Calibre-Black.woff) format("woff"),url(assets/fonts/Calibre-Black.ttf) format("truetype"),url(assets/fonts/Calibre-Black.svg) format("svg");
+    font-family: 'Antenna';
+    src: url('fonts/Antenna-Black.eot');
+    src: url('fonts/Antenna-Black.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Antenna-Black.woff2') format('woff2'),
+        url('fonts/Antenna-Black.woff') format('woff'),
+        url('fonts/Antenna-Black.ttf') format('truetype'),
+        url('fonts/Antenna-Black.svg#Antenna-Black') format('svg');
     font-weight: 900;
-    font-style: normal
+    font-style: normal;
 }
 
 @font-face {
-    font-family: Conv_Calibre;
-    src: url(assets/fonts/Calibre-Bold.eot);
-    src: local("☺"),url(assets/fonts/Calibre-Bold.woff) format("woff"),url(assets/fonts/Calibre-Bold.ttf) format("truetype"),url(assets/fonts/Calibre-Bold.svg) format("svg");
+    font-family: 'BentonModDispCond BD';
+    src: url('fonts/BentonModDispCond-Bold.eot');
+    src: url('fonts/BentonModDispCond-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BentonModDispCond-Bold.woff2') format('woff2'),
+        url('fonts/BentonModDispCond-Bold.woff') format('woff'),
+        url('fonts/BentonModDispCond-Bold.ttf') format('truetype'),
+        url('fonts/BentonModDispCond-Bold.svg#BentonModDispCond-Bold') format('svg');
     font-weight: 700;
-    font-style: normal
+    font-style: normal;
 }
 
 @font-face {
-    font-family: Conv_Calibre;
-    src: url(assets/fonts/Calibre-BoldItalic.eot);
-    src: local("☺"),url(assets/fonts/Calibre-BoldItalic.woff) format("woff"),url(assets/fonts/Calibre-BoldItalic.ttf) format("truetype"),url(assets/fonts/Calibre-BoldItalic.svg) format("svg");
+    font-family: 'Cardenio Modern';
+    src: url('fonts/CardenioModern-Bold.eot');
+    src: url('fonts/CardenioModern-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/CardenioModern-Bold.woff2') format('woff2'),
+        url('fonts/CardenioModern-Bold.woff') format('woff'),
+        url('fonts/CardenioModern-Bold.ttf') format('truetype'),
+        url('fonts/CardenioModern-Bold.svg#CardenioModern-Bold') format('svg');
     font-weight: 700;
-    font-style: italic
+    font-style: normal;
 }
 
 @font-face {
-    font-family: Conv_Calibre;
-    src: url(assets/fonts/Calibre-Semibold.eot);
-    src: local("☺"),url(assets/fonts/Calibre-Semibold.woff) format("woff"),url(assets/fonts/Calibre-Semibold.ttf) format("truetype"),url(assets/fonts/Calibre-Semibold.svg) format("svg");
-    font-weight: 600;
-    font-style: normal
+    font-family: 'Comic Zine OT';
+    src: url('fonts/ComicZineOT.eot');
+    src: url('fonts/ComicZineOT.eot?#iefix') format('embedded-opentype'),
+        url('fonts/ComicZineOT.woff2') format('woff2'),
+        url('fonts/ComicZineOT.woff') format('woff'),
+        url('fonts/ComicZineOT.ttf') format('truetype'),
+        url('fonts/ComicZineOT.svg#ComicZineOT') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
 @font-face {
-    font-family: Conv_Calibre;
-    src: url(assets/fonts/Calibre-Medium.eot);
-    src: local("☺"),url(assets/fonts/Calibre-Medium.woff) format("woff"),url(assets/fonts/Calibre-Medium.ttf) format("truetype"),url(assets/fonts/Calibre-Medium.svg) format("svg");
+    font-family: 'Corpid';
+    src: url('fonts/Corpid-Bold.eot');
+    src: url('fonts/Corpid-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Corpid-Bold.woff2') format('woff2'),
+        url('fonts/Corpid-Bold.woff') format('woff'),
+        url('fonts/Corpid-Bold.ttf') format('truetype'),
+        url('fonts/Corpid-Bold.svg#Corpid-Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Corpid';
+    src: url('fonts/Corpid-Light.eot');
+    src: url('fonts/Corpid-Light.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Corpid-Light.woff2') format('woff2'),
+        url('fonts/Corpid-Light.woff') format('woff'),
+        url('fonts/Corpid-Light.ttf') format('truetype'),
+        url('fonts/Corpid-Light.svg#Corpid-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Corpid';
+    src: url('fonts/Corpid-Regular.eot');
+    src: url('fonts/Corpid-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Corpid-Regular.woff2') format('woff2'),
+        url('fonts/Corpid-Regular.woff') format('woff'),
+        url('fonts/Corpid-Regular.ttf') format('truetype'),
+        url('fonts/Corpid-Regular.svg#Corpid-Regular') format('svg');
     font-weight: 500;
-    font-style: normal
+    font-style: normal;
 }
 
 @font-face {
-    font-family: Conv_Calibre;
-    src: url(assets/fonts/Calibre-Regular.eot);
-    src: local("☺"),url(assets/fonts/Calibre-Regular.woff) format("woff"),url(assets/fonts/Calibre-Regular.ttf) format("truetype"),url(assets/fonts/Calibre-Regular.svg) format("svg");
+    font-family: 'Corpid Cd';
+    src: url('fonts/CorpidCd-Bold.eot');
+    src: url('fonts/CorpidCd-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/CorpidCd-Bold.woff2') format('woff2'),
+        url('fonts/CorpidCd-Bold.woff') format('woff'),
+        url('fonts/CorpidCd-Bold.ttf') format('truetype'),
+        url('fonts/CorpidCd-Bold.svg#CorpidCd-Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Corpid';
+    src: url('fonts/Corpid-Black.eot');
+    src: url('fonts/Corpid-Black.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Corpid-Black.woff2') format('woff2'),
+        url('fonts/Corpid-Black.woff') format('woff'),
+        url('fonts/Corpid-Black.ttf') format('truetype'),
+        url('fonts/Corpid-Black.svg#Corpid-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Calibri';
+    src: url('fonts/Calibri.eot');
+    src: url('fonts/Calibri.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Calibri.woff2') format('woff2'),
+        url('fonts/Calibri.woff') format('woff'),
+        url('fonts/Calibri.ttf') format('truetype'),
+        url('fonts/Calibri.svg#Calibri') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Corpid SemiCd';
+    src: url('fonts/CorpidSemiCd-Light.eot');
+    src: url('fonts/CorpidSemiCd-Light.eot?#iefix') format('embedded-opentype'),
+        url('fonts/CorpidSemiCd-Light.woff2') format('woff2'),
+        url('fonts/CorpidSemiCd-Light.woff') format('woff'),
+        url('fonts/CorpidSemiCd-Light.ttf') format('truetype'),
+        url('fonts/CorpidSemiCd-Light.svg#CorpidSemiCd-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Corpid Cd';
+    src: url('fonts/CorpidCd-BoldItalic.eot');
+    src: url('fonts/CorpidCd-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/CorpidCd-BoldItalic.woff2') format('woff2'),
+        url('fonts/CorpidCd-BoldItalic.woff') format('woff'),
+        url('fonts/CorpidCd-BoldItalic.ttf') format('truetype'),
+        url('fonts/CorpidCd-BoldItalic.svg#CorpidCd-BoldItalic') format('svg');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Corpid Cd';
+    src: url('fonts/CorpidCd-Light.eot');
+    src: url('fonts/CorpidCd-Light.eot?#iefix') format('embedded-opentype'),
+        url('fonts/CorpidCd-Light.woff2') format('woff2'),
+        url('fonts/CorpidCd-Light.woff') format('woff'),
+        url('fonts/CorpidCd-Light.ttf') format('truetype'),
+        url('fonts/CorpidCd-Light.svg#CorpidCd-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FFDingbats';
+    src: url('fonts/FFDingbats-BasicForms.eot');
+    src: url('fonts/FFDingbats-BasicForms.eot?#iefix') format('embedded-opentype'),
+        url('fonts/FFDingbats-BasicForms.woff2') format('woff2'),
+        url('fonts/FFDingbats-BasicForms.woff') format('woff'),
+        url('fonts/FFDingbats-BasicForms.ttf') format('truetype'),
+        url('fonts/FFDingbats-BasicForms.svg#FFDingbats-BasicForms') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Corpid Cd';
+    src: url('fonts/CorpidCd.eot');
+    src: url('fonts/CorpidCd.eot?#iefix') format('embedded-opentype'),
+        url('fonts/CorpidCd.woff2') format('woff2'),
+        url('fonts/CorpidCd.woff') format('woff'),
+        url('fonts/CorpidCd.ttf') format('truetype'),
+        url('fonts/CorpidCd.svg#CorpidCd') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Klavika Arrows';
+    src: url('fonts/KlavikaArrows.eot');
+    src: url('fonts/KlavikaArrows.eot?#iefix') format('embedded-opentype'),
+        url('fonts/KlavikaArrows.woff2') format('woff2'),
+        url('fonts/KlavikaArrows.woff') format('woff'),
+        url('fonts/KlavikaArrows.ttf') format('truetype'),
+        url('fonts/KlavikaArrows.svg#KlavikaArrows') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monoton';
+    src: url('fonts/Monoton-Regular.eot');
+    src: url('fonts/Monoton-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Monoton-Regular.woff2') format('woff2'),
+        url('fonts/Monoton-Regular.woff') format('woff'),
+        url('fonts/Monoton-Regular.ttf') format('truetype'),
+        url('fonts/Monoton-Regular.svg#Monoton-Regular') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Minion Pro';
+    src: url('fonts/MinionPro-Regular.eot');
+    src: url('fonts/MinionPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/MinionPro-Regular.woff2') format('woff2'),
+        url('fonts/MinionPro-Regular.woff') format('woff'),
+        url('fonts/MinionPro-Regular.ttf') format('truetype'),
+        url('fonts/MinionPro-Regular.svg#MinionPro-Regular') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mouse Memoirs';
+    src: url('fonts/MouseMemoirs-Regular.eot');
+    src: url('fonts/MouseMemoirs-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/MouseMemoirs-Regular.woff2') format('woff2'),
+        url('fonts/MouseMemoirs-Regular.woff') format('woff'),
+        url('fonts/MouseMemoirs-Regular.ttf') format('truetype'),
+        url('fonts/MouseMemoirs-Regular.svg#MouseMemoirs-Regular') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kosmik';
+    src: url('fonts/Kosmik-Glyphs.eot');
+    src: url('fonts/Kosmik-Glyphs.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Kosmik-Glyphs.woff2') format('woff2'),
+        url('fonts/Kosmik-Glyphs.woff') format('woff'),
+        url('fonts/Kosmik-Glyphs.ttf') format('truetype'),
+        url('fonts/Kosmik-Glyphs.svg#Kosmik-Glyphs') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gotu';
+    src: url('fonts/Gotu-Regular.eot');
+    src: url('fonts/Gotu-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Gotu-Regular.woff2') format('woff2'),
+        url('fonts/Gotu-Regular.woff') format('woff'),
+        url('fonts/Gotu-Regular.ttf') format('truetype'),
+        url('fonts/Gotu-Regular.svg#Gotu-Regular') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    src: url('fonts/NotoSans-BoldItalic.eot');
+    src: url('fonts/NotoSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/NotoSans-BoldItalic.woff2') format('woff2'),
+        url('fonts/NotoSans-BoldItalic.woff') format('woff'),
+        url('fonts/NotoSans-BoldItalic.ttf') format('truetype'),
+        url('fonts/NotoSans-BoldItalic.svg#NotoSans-BoldItalic') format('svg');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    src: url('fonts/NotoSans-Black.eot');
+    src: url('fonts/NotoSans-Black.eot?#iefix') format('embedded-opentype'),
+        url('fonts/NotoSans-Black.woff2') format('woff2'),
+        url('fonts/NotoSans-Black.woff') format('woff'),
+        url('fonts/NotoSans-Black.ttf') format('truetype'),
+        url('fonts/NotoSans-Black.svg#NotoSans-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    src: url('fonts/NotoSans-Bold.eot');
+    src: url('fonts/NotoSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/NotoSans-Bold.woff2') format('woff2'),
+        url('fonts/NotoSans-Bold.woff') format('woff'),
+        url('fonts/NotoSans-Bold.ttf') format('truetype'),
+        url('fonts/NotoSans-Bold.svg#NotoSans-Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    src: url('fonts/NotoSans-ExtraBold.eot');
+    src: url('fonts/NotoSans-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/NotoSans-ExtraBold.woff2') format('woff2'),
+        url('fonts/NotoSans-ExtraBold.woff') format('woff'),
+        url('fonts/NotoSans-ExtraBold.ttf') format('truetype'),
+        url('fonts/NotoSans-ExtraBold.svg#NotoSans-ExtraBold') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    src: url('fonts/NotoSans-Italic.eot');
+    src: url('fonts/NotoSans-Italic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/NotoSans-Italic.woff2') format('woff2'),
+        url('fonts/NotoSans-Italic.woff') format('woff'),
+        url('fonts/NotoSans-Italic.ttf') format('truetype'),
+        url('fonts/NotoSans-Italic.svg#NotoSans-Italic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    src: url('fonts/NotoSans-ExtraBoldItalic.eot');
+    src: url('fonts/NotoSans-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/NotoSans-ExtraBoldItalic.woff2') format('woff2'),
+        url('fonts/NotoSans-ExtraBoldItalic.woff') format('woff'),
+        url('fonts/NotoSans-ExtraBoldItalic.ttf') format('truetype'),
+        url('fonts/NotoSans-ExtraBoldItalic.svg#NotoSans-ExtraBoldItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    src: url('fonts/NotoSans-LightItalic.eot');
+    src: url('fonts/NotoSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/NotoSans-LightItalic.woff2') format('woff2'),
+        url('fonts/NotoSans-LightItalic.woff') format('woff'),
+        url('fonts/NotoSans-LightItalic.ttf') format('truetype'),
+        url('fonts/NotoSans-LightItalic.svg#NotoSans-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    src: url('fonts/NotoSans-Light.eot');
+    src: url('fonts/NotoSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('fonts/NotoSans-Light.woff2') format('woff2'),
+        url('fonts/NotoSans-Light.woff') format('woff'),
+        url('fonts/NotoSans-Light.ttf') format('truetype'),
+        url('fonts/NotoSans-Light.svg#NotoSans-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    src: url('fonts/NotoSans-Medium.eot');
+    src: url('fonts/NotoSans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('fonts/NotoSans-Medium.woff2') format('woff2'),
+        url('fonts/NotoSans-Medium.woff') format('woff'),
+        url('fonts/NotoSans-Medium.ttf') format('truetype'),
+        url('fonts/NotoSans-Medium.svg#NotoSans-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('fonts/Poppins-Bold.eot');
+    src: url('fonts/Poppins-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Poppins-Bold.woff2') format('woff2'),
+        url('fonts/Poppins-Bold.woff') format('woff'),
+        url('fonts/Poppins-Bold.ttf') format('truetype'),
+        url('fonts/Poppins-Bold.svg#Poppins-Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('fonts/Poppins-ExtraBold.eot');
+    src: url('fonts/Poppins-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Poppins-ExtraBold.woff2') format('woff2'),
+        url('fonts/Poppins-ExtraBold.woff') format('woff'),
+        url('fonts/Poppins-ExtraBold.ttf') format('truetype'),
+        url('fonts/Poppins-ExtraBold.svg#Poppins-ExtraBold') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Verveine';
+    src: url('fonts/Verveine-Regular.eot');
+    src: url('fonts/Verveine-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Verveine-Regular.woff2') format('woff2'),
+        url('fonts/Verveine-Regular.woff') format('woff'),
+        url('fonts/Verveine-Regular.ttf') format('truetype'),
+        url('fonts/Verveine-Regular.svg#Verveine-Regular') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('fonts/Poppins-Medium.eot');
+    src: url('fonts/Poppins-Medium.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Poppins-Medium.woff2') format('woff2'),
+        url('fonts/Poppins-Medium.woff') format('woff'),
+        url('fonts/Poppins-Medium.ttf') format('truetype'),
+        url('fonts/Poppins-Medium.svg#Poppins-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('fonts/Poppins-Regular.eot');
+    src: url('fonts/Poppins-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Poppins-Regular.woff2') format('woff2'),
+        url('fonts/Poppins-Regular.woff') format('woff'),
+        url('fonts/Poppins-Regular.ttf') format('truetype'),
+        url('fonts/Poppins-Regular.svg#Poppins-Regular') format('svg');
     font-weight: 400;
-    font-style: normal
+    font-style: normal;
 }
 
 @font-face {
-    font-family: Conv_Calibre;
-    src: url(assets/fonts/Calibre-RegularItalic.eot);
-    src: local("☺"),url(assets/fonts/Calibre-RegularItalic.woff) format("woff"),url(assets/fonts/Calibre-RegularItalic.ttf) format("truetype"),url(assets/fonts/Calibre-RegularItalic.svg) format("svg");
-    font-weight: 400;
-    font-style: italic
-}
-
-@font-face {
-    font-family: Conv_Calibre;
-    src: url(assets/fonts/Calibre-Light.eot);
-    src: local("☺"),url(assets/fonts/Calibre-Light.woff) format("woff"),url(assets/fonts/Calibre-Light.ttf) format("truetype"),url(assets/fonts/Calibre-Light.svg) format("svg");
-    font-weight: 100;
-    font-style: normal
-}
-
-@font-face {
-    font-family: Conv_Calibre;
-    src: url(assets/fonts/Calibre-LightItalic.eot);
-    src: local("☺"),url(assets/fonts/Calibre-LightItalic.woff) format("woff"),url(assets/fonts/Calibre-LightItalic.ttf) format("truetype"),url(assets/fonts/Calibre-LightItalic.svg) format("svg");
-    font-weight: 100;
-    font-style: italic
-}
-
-@font-face {
-    font-family: Conv_JeanLuc;
-    src: url(assets/fonts/JeanLuc-Thin.eot);
-    src: local("☺"),url(assets/fonts/JeanLuc-Thin.woff) format("woff"),url(assets/fonts/JeanLuc-Thin.ttf) format("truetype"),url(assets/fonts/JeanLuc-Thin.svg) format("svg");
-    font-weight: 400;
-    font-style: normal
-}
-
-@font-face {
-    font-family: Conv_zwijsen-dyslexie-print;
-    src: url(assets/fonts/zwijsen-dyslexie-print.eot);
-    src: local("☺"),url(assets/fonts/zwijsen-dyslexie-print.woff) format("woff"),url(assets/fonts/zwijsen-dyslexie-print.ttf) format("truetype"),url(assets/fonts/zwijsen-dyslexie-print.svg) format("svg");
-    font-weight: 400;
-    font-style: normal
-}
-
-@font-face {
-    font-family: Conv_PT_Sans-Web;
-    src: url(assets/fonts/PT_Sans-Web-Bold.eot);
-    src: local("☺"),url(assets/fonts/PT_Sans-Web-Bold.woff) format("woff"),url(assets/fonts/PT_Sans-Web-Bold.ttf) format("truetype"),url(assets/fonts/PT_Sans-Web-Bold.svg) format("svg");
+    font-family: 'Noto Sans';
+    src: url('fonts/NotoSans-SemiBold.eot');
+    src: url('fonts/NotoSans-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/NotoSans-SemiBold.woff2') format('woff2'),
+        url('fonts/NotoSans-SemiBold.woff') format('woff'),
+        url('fonts/NotoSans-SemiBold.ttf') format('truetype'),
+        url('fonts/NotoSans-SemiBold.svg#NotoSans-SemiBold') format('svg');
     font-weight: 600;
-    font-style: normal
+    font-style: normal;
 }
 
 @font-face {
-    font-family: Conv_PT_Sans-Web;
-    src: url(assets/fonts/PT_Sans-Web-BoldItalic.eot);
-    src: local("☺"),url(assets/fonts/PT_Sans-Web-BoldItalic.woff) format("woff"),url(assets/fonts/PT_Sans-Web-BoldItalic.ttf) format("truetype"),url(assets/fonts/PT_Sans-Web-BoldItalic.svg) format("svg");
+    font-family: 'Noto Sans';
+    src: url('fonts/NotoSans-Regular.eot');
+    src: url('fonts/NotoSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/NotoSans-Regular.woff2') format('woff2'),
+        url('fonts/NotoSans-Regular.woff') format('woff'),
+        url('fonts/NotoSans-Regular.ttf') format('truetype'),
+        url('fonts/NotoSans-Regular.svg#NotoSans-Regular') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('fonts/Poppins-SemiBold.eot');
+    src: url('fonts/Poppins-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Poppins-SemiBold.woff2') format('woff2'),
+        url('fonts/Poppins-SemiBold.woff') format('woff'),
+        url('fonts/Poppins-SemiBold.ttf') format('truetype'),
+        url('fonts/Poppins-SemiBold.svg#Poppins-SemiBold') format('svg');
     font-weight: 600;
-    font-style: italic
+    font-style: normal;
 }
 
-@font-face {
-    font-family: Conv_PT_Sans-Web;
-    src: url(assets/fonts/PT_Sans-Web-Italic.eot);
-    src: local("☺"),url(assets/fonts/PT_Sans-Web-Italic.woff) format("woff"),url(assets/fonts/PT_Sans-Web-Italic.ttf) format("truetype"),url(assets/fonts/PT_Sans-Web-Italic.svg) format("svg");
-    font-weight: 400;
-    font-style: italic
-}
 
-@font-face {
-    font-family: Conv_PT_Sans-Web;
-    src: url(assets/fonts/PT_Sans-Web-Regular.eot);
-    src: local("☺"),url(assets/fonts/PT_Sans-Web-Regular.woff) format("woff"),url(assets/fonts/PT_Sans-Web-Regular.ttf) format("truetype"),url(assets/fonts/PT_Sans-Web-Regular.svg) format("svg");
-    font-weight: 400;
-    font-style: normal
-}
+
+
 
 b,strong {
     font-weight: 600
@@ -684,12 +1024,16 @@ body.is_app .diaporamademo-navbar.ocultar {
 }
 
 .bck-title-1 {
-    color: #fff;
-    font-size: 13rem;
-    padding-bottom: 0;
-    margin-left: 0;
+    color: #DB1369;
+    font-size: 2.8rem;
+    padding: 4px;
+    padding-left: 7px;
     font-weight: 700;
-    border-bottom: none
+    border-bottom: 3px solid #DB1369;
+    border-left: 3px solid #DB1369;
+    border-radius: 27px;
+    border-top: 1px solid #fff;
+    border-top-left-radius: 0px;
 }
 
 .bck-title-1:before {
