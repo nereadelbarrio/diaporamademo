@@ -2257,32 +2257,29 @@ hr {
     display: none
 }
 
+/*caja 03*/
 .bck-box.bck-box-3 {
-    background: transparent;
-    border: none;
-    text-align: left;
-    border-radius: 0
-}
-
-.bck-box-3>.bck-title {
+    background: #fff;
     border: 0;
-    color: #fff;
-    text-align: left;
-    font-size: 2rem;
-    background: #990381;
-    padding: 10px 20px 0;
-    font-weight: 700
+    border-radius: 0;
+    color: #333;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 6px 0 #bababa;
 }
 
-.bck-box.bck-box-3>.bck-content {
-    padding: 20px 27px;
-    background: #eee3f0
+.bck-box.bck-box-3>.bck-content,
+.bck-box.bck-box-3>.bck-title {
+	color: #333;
+    background: #fff;
+    padding: 5px;
 }
 
 .bck-box.bck-box-3>.bck-title:before {
     display: none
 }
 
+/*caja 04*/
 .bck-box.bck-box-4 {
     background: transparent;
     border: 0;
