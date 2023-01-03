@@ -683,8 +683,8 @@ button.btn.btn-primary.disabled {
 
 body {
     font-size: 2rem;
-    font-weight: 400;
-    font-family: Conv_Calibre;
+    font-weight: 500;
+    font-family: 'Noto Sans';
     color: #000
 }
 
@@ -1181,14 +1181,10 @@ body.is_app .diaporamademo-navbar.ocultar {
 }
 
 .bck-enfasis-1 {
-    color: #323232;
-    font-size: 1.5rem;
-    font-weight: 500;
-    font-size: 75%;
-    line-height: 0;
-    position: relative;
-    vertical-align: baseline;
-    top: -.5em
+    color: #DB1369;
+    font-size: 2.8rem;
+    font-weight: 300;
+    font-family: 'Noto Sans';
 }
 
 .bck-enfasis-2 {
