@@ -1271,35 +1271,38 @@ body.is_app .diaporamademo-navbar.ocultar {
 }
 
 .bck-enfasis-6 {
-    color: #2880c3;
-    font-size: 22px
+    color: #F18700;
+    font-size: 2.8rem;
+    font-weight: 300;
+    font-family: 'Noto Sans';
 }
 
 .bck-enfasis-7 {
-    background: #fff;
-    font-weight: 700;
-    color: #e30613;
-    padding: 10px 10px 2px 0
+    color: #68B435;
+    font-size: 2.8rem;
+    font-weight: 300;
+    font-family: 'Noto Sans';
 }
 
 .bck-enfasis-8 {
-    color: #9e1981;
-    font-weight: 700
+    color: #FFCE36;
+    font-size: 2.8rem;
+    font-weight: 300;
+    font-family: 'Noto Sans';
 }
 
 .bck-enfasis-9 {
-    font-size: 22px;
-    background-color: #f49400;
-    padding: 10px 25px 5px;
-    color: #fff;
-    font-size: 16px;
-    font-weight: 600;
-    font-family: Conv_Calibre
+    color: #0076BD;
+    font-size: 2.8rem;
+    font-weight: 300;
+    font-family: 'Noto Sans';
 }
 
 .bck-enfasis-10 {
-    color: #00a6ba;
-    font-weight: 700
+    color: #22AEB9;
+    font-size: 2.8rem;
+    font-weight: 300;
+    font-family: 'Noto Sans';
 }
 
 .bck-enfasis-11 {
