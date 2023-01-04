@@ -99,8 +99,8 @@ padre>diaporamademo*/
 				{ name: 'Caja 21', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-21' } },
 				{ name: 'Caja 22', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-22' } },
 				
-				{ name: 'Icono Parejas Negro', element: 'span', attributes: { 'class': 'icon icon-parejas-negro' } },
-				{ name: 'Icono Grupos Negro', element: 'span', attributes: { 'class': 'icon icon-grupos-negro' } },
+				{ name: 'Icono Orale Production', element: 'span', attributes: { 'class': 'icon icon-production-orale' } },
+				{ name: 'Icono Ecrite Production', element: 'span', attributes: { 'class': 'icon icon-production-ecrite' } },
 				{ name: 'Icono Video', element: 'span', attributes: { 'class': 'icon icon-video' } },
 				{ name: 'Icono Flecha Azul', element: 'span', attributes: { 'class': 'icon icon-flechaazul' } },
 				{ name: 'Icono Dados', element: 'span', attributes: { 'class': 'icon icon-dados' } },
@@ -113,7 +113,6 @@ padre>diaporamademo*/
 				{ name: 'Icono Exclamación gris', element: 'span', attributes: { 'class': 'icon icon-exclamaciongris' } },
 				{ name: 'Icono Exclamación marrón', element: 'span', attributes: { 'class': 'icon icon-exclamacionmarron' } },
 				{ name: 'Icono Flecha Naranja', element: 'span', attributes: { 'class': 'icon icon-flechanaranja' } },	
-				{ name: 'Icono Persona sola', element: 'span', attributes: { 'class': 'icon icon-personasola-negro' } },
 				{ name: 'Icono CI', element: 'span', attributes: { 'class': 'icon icon-ci' } },
 				{ name: 'Icono lapiz DELF', element: 'span', attributes: { 'class': 'icon icon-lapizdelf' } },
 				{ name: 'Icono libro DELF', element: 'span', attributes: { 'class': 'icon icon-librodelf' } },
