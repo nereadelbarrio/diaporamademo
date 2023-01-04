@@ -995,7 +995,7 @@ body.is_app .diaporamademo-navbar.ocultar {
 
 .bck-file-attach:before {
     content: " ";
-    background-image: url(images/icono_rubric_diaporamademo.png);
+    background-image: url(images/icono_rubric_diaporama.png);
     background-repeat: no-repeat;
     padding: 13px;
     background-size: contain;
