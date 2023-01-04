@@ -3391,18 +3391,19 @@ hr {
 
 .item-container .icon-production-orale:before {
     background-image: url(images/icono_production_orale_diaporama.png);
-    width: 28px;
-    height: 22px;
+    width: 80px;
+    height: 80px;
     margin-right: 5px;
     margin-top: -7px
 }
 
 .item-container .icon-production-ecrite:before {
     background-image: url(images/icono_production_ecrite_diaporama.png);
-    width: 18px;
-    height: 24px;
-    margin-right: 5px;
-    margin-top: -7px
+    width: 99px;
+    height: 80px;
+    margin-right: 6px;
+    margin-top: -7px;
+    margin-left: -21px;
 }
 
 .item-container .icon-grupos-negro:before {
