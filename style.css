@@ -3387,16 +3387,18 @@ hr {
     margin-top: 0
 }
 
-.item-container .icon-parejas-negro:before {
-    background-image: url(images/icono_enparejas_negro_diaporamademo.png);
+/*iconos*/
+
+.item-container .icon-production-orale:before {
+    background-image: url(images/icono_production_orale_diaporama.png);
     width: 28px;
     height: 22px;
     margin-right: 5px;
     margin-top: -7px
 }
 
-.item-container .icon-personasola-negro:before {
-    background-image: url(images/icono_solo_negro_diaporamademo.png);
+.item-container .icon-production-ecrite:before {
+    background-image: url(images/icono_production_ecrite_diaporama.png);
     width: 18px;
     height: 24px;
     margin-right: 5px;
