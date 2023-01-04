@@ -116,7 +116,7 @@ padre>diaporamademo*/
 				{ name: 'Icono CI', element: 'span', attributes: { 'class': 'icon icon-ci' } },
 				{ name: 'Icono lapiz DELF', element: 'span', attributes: { 'class': 'icon icon-lapizdelf' } },
 				{ name: 'Icono libro DELF', element: 'span', attributes: { 'class': 'icon icon-librodelf' } },
-				{ name: 'Icono Audio', element: 'span', attributes: { 'class': 'icon icon-audiodelf' } },
+				{ name: 'Icono Audio', element: 'span', attributes: { 'class': 'icon icon-audio' } },
 				{ name: 'Icono hablar DELF', element: 'span', attributes: { 'class': 'icon icon-hablardelf' } },
 				
 				
