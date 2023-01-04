@@ -3609,7 +3609,7 @@ table.bck-table-4 {
 }
 
 table.bck-table-4 td {
-    border-color: #5c6cb0
+    border: 3px solid #fff;
 }
 
 table.bck-table-5 {
@@ -3724,6 +3724,7 @@ table td.bck-td-2 {
     background-color: #FDEAAE;
     color: #000;
     font-size: inherit;
+    padding: 8px;
 }
 
 table.bck-table-2 td.bck-td-2 {
@@ -3731,14 +3732,14 @@ table.bck-table-2 td.bck-td-2 {
 }
 
 table td.bck-td-3 {
-    background-color: #5c6cb0;
-    color: #fff;
-    font-family: Conv_Calibre;
-    font-weight: 700
+   background-color: #FBDE80;
+    color: #000;
+    font-size: inherit;
+    padding: 8px;
 }
 
 table.bck-table-4 td.bck-td-3 {
-    border-color: #fff
+    border: 3px solid #fff;
 }
 
 table td.bck-td-4 {
