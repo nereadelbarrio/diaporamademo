@@ -3613,7 +3613,7 @@ table.bck-table-4 td {
 }
 
 table.bck-table-5 {
-    border: 2px solid #d91f52
+    border: 1px solid #D7D1C9;
 }
 
 table.bck-table-5 td {
@@ -3625,7 +3625,7 @@ table.bck-table-5 td.bck-td-4 {
 }
 
 table.bck-table-6 {
-    border: 2px solid #2d6c73
+    border: 2px solid #db1369;
 }
 
 table.bck-table-6 td {
@@ -3637,15 +3637,15 @@ table.bck-table-6 td.bck-td-5 {
 }
 
 table.bck-table-7 {
-    border: 2px solid #197126
+    border: 2px solid #71237D;
 }
 
 table.bck-table-7 td {
-    border-color: #197126
+    border-color: #71237D;
 }
 
 table.bck-table-7 td.bck-td-6 {
-    border-color: #fff
+    border: 3px solid #fff;
 }
 
 table.bck-table-8 {
@@ -3743,27 +3743,24 @@ table.bck-table-4 td.bck-td-3 {
 }
 
 table td.bck-td-4 {
-    background-color: #d91f52
-}
-
-table td.bck-td-4,table td.bck-td-5 {
-    color: #fff;
-    font-family: Conv_Calibre;
-    font-weight: 700
+    background-color: #D7D1C9;
+    color: #000;
+    font-size: inherit;
+    padding: 8px;
 }
 
 table td.bck-td-5 {
-    background-color: #2d6c73
+    background-color: #DB1369;
+    color: #000;
+    font-size: inherit;
+    padding: 8px;
 }
 
 table td.bck-td-6 {
-    background-color: #197126
-}
-
-table td.bck-td-6,table td.bck-td-7 {
+    background-color: #71237D;
     color: #fff;
-    font-family: Conv_Calibre;
-    font-weight: 700
+    font-size: inherit;
+    padding: 8px;
 }
 
 table td.bck-td-7 {
