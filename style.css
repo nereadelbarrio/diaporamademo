@@ -3414,7 +3414,7 @@ hr {
     margin-top: 0
 }
 
-.item-container .icon-audiodelf:before {
+.item-container .icon-audio:before {
     background-image: url(images/icono_audio_DELF.png);
     width: 28px;
     height: 28px;
