@@ -3669,7 +3669,7 @@ table.bck-table-9 td {
 }
 
 table.bck-table-9 td.bck-td-8 {
-    border-color: #fff
+    border: 2px solid #fff;
 }
 
 table.bck-table-10 {
@@ -3768,13 +3768,13 @@ table td.bck-td-7 {
 }
 
 table td.bck-td-8 {
-    background-color: #006da8
+    background-color: #005DA9;
 }
 
 table td.bck-td-8,table td.bck-td-9 {
     color: #fff;
-    font-family: Conv_Calibre;
-    font-weight: 700
+    font-size: inherit;
+    padding: 8px;
 }
 
 table td.bck-td-9 {
