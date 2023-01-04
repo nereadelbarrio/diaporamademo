@@ -3406,6 +3406,23 @@ hr {
     margin-left: -21px;
 }
 
+.item-container .icon-colores:before {
+    background-image: url(images/icono_rueda_colores_diaporama.png);
+    width: 24px;
+    height: 24px;
+    margin-right: 5px;
+    margin-top: 0
+}
+
+.item-container .icon-audiodelf:before {
+    background-image: url(images/icono_audio_DELF.png);
+    width: 28px;
+    height: 28px;
+    margin-right: 8px;
+    margin-top: -5px;
+}  
+
+
 .item-container .icon-grupos-negro:before {
     background-image: url(images/icono_engrupos_negro_diaporamademo.png);
     width: 26px;
@@ -3452,13 +3469,6 @@ hr {
     margin-top: -7px
 }
 
-.item-container .icon-colores:before {
-    background-image: url(images/icono_rueda_colores_diaporama.png);
-    width: 24px;
-    height: 24px;
-    margin-right: 5px;
-    margin-top: 0
-}
 
 .item-container .icon-ci:before {
     background-image: url(images/icono_CI_diaporamademo.png);
@@ -3532,13 +3542,7 @@ hr {
     margin-top: -5px
 }
 
-.item-container .icon-audiodelf:before {
-    background-image: url(images/icono_audio_DELF.png);
-    width: 49px;
-    height: 50px;
-    margin-right: 0;
-    margin-top: -5px
-}
+
 
 .item-container .icon-lapizdelf:before {
     background-image: url(images/icono_lapiz_DELF.png);
