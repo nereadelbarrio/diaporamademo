@@ -566,7 +566,7 @@ button.btn.btn-primary.disabled {
 
 #indice .unit-content .material .item .imagen.img:after {
     background-color: #000;
-    border-radius: 50%
+    border-radius: 50%;
     background-image: url(images/recurso-icon-img_diaporama.png);
 }
 
