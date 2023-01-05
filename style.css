@@ -567,6 +567,7 @@ button.btn.btn-primary.disabled {
 #indice .unit-content .material .item .imagen.img:after {
     background-color: #000;
     border-radius: 50%
+    background-image: url(images/recurso-icon-img_diaporama.png);
 }
 
 #indice .unit-content .material .item:nth-child(4n) {
@@ -599,19 +600,25 @@ button.btn.btn-primary.disabled {
 }
 
 #indice .unit-content .material .item .imagen.musica:after {
-    background-image: url(images/icono_audio_materialapoyo_diaporamademo.png);
+    background-image: url(images/icono_audio_materialapoyo_diaporama.png);
     background-color: #000;
     border-radius: 50%
 }
 
 #indice .unit-content .material .item .imagen.video:after {
-    background-image: url(images/icono_video_materialapoyo_diaporamademo.png);
+    background-image: url(images/icono_video_materialapoyo_diaporama.png);
     background-color: #000;
     border-radius: 50%
 }
 
 #indice .unit-content .material .item .imagen.archivo:after,#indice .unit-content .material .item .imagen.pdf:after {
-    background-image: url(images/icono_archivo_materialapoyo_diaporamademo.png);
+    background-image: url(images/icono_video_materialapoyo_diaporama.png);
+    background-color: #000;
+    border-radius: 50%
+}
+
+#indice .unit-content .material .item .imagen.url:after {
+	background-image: url(images/recurso-icon-url_diaporama.png);
     background-color: #000;
     border-radius: 50%
 }
@@ -4225,7 +4232,8 @@ body:not(.edit) .back .bck-flipbox-section,body:not(.edit) .back .bck-flipbox-ti
 
 #indice .unit-content .material .item .imagen.actividad:after {
     background-color: #000;
-    border-radius: 50%
+    border-radius: 50%;
+    background-image: url(images/recurso-icon-actividad_diaporama.png);
 }
 
 #indice .unit-content .material .item .imagen.actividad:before {
