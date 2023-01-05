@@ -492,7 +492,7 @@ body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
 }
 
 button.btn.btn-primary.disabled {
-    font-size: 18px;
+    font-size: 16px;
     padding-top: 6px
 }
 
