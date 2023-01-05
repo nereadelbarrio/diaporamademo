@@ -23,6 +23,7 @@ padre>diaporamademo*/
 				{ name: 'Título 05', element: 'h3', attributes: { 'class': 'bck-title bck-title-5'} },
 				{ name: 'Título 06', element: 'h3', attributes: { 'class': 'bck-title bck-title-6'} },
 				{ name: 'Título 07', element: 'h3', attributes: { 'class': 'bck-title bck-title-7'} },
+				{ name: 'Título 08', element: 'h3', attributes: { 'class': 'bck-title bck-title-8'} },
 				
 				{ name: 'Énfasis 01', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 				{ name: 'Énfasis 02', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
@@ -36,6 +37,7 @@ padre>diaporamademo*/
 				{ name: 'Énfasis 10', element: 'span', attributes: { 'class': 'bck-enfasis-10'} },
 				{ name: 'Énfasis 11', element: 'span', attributes: { 'class': 'bck-enfasis-11'} },
 				{ name: 'Énfasis 12', element: 'span', attributes: { 'class': 'bck-enfasis-12'} },
+				{ name: 'Énfasis 13', element: 'span', attributes: { 'class': 'bck-enfasis-13'} },
 			
 				{ name: 'Lista Ordenada 01', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
 				{ name: 'Lista Ordenada 02', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-2' } },
