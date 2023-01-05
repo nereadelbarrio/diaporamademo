@@ -1807,7 +1807,11 @@ hr {
     border-radius: 50%
 }
 
-#actividad .content .texto_curso .bck-ul li:before,#actividad .content .texto_curso ul li:before,#actividad .content .workspace ul li .bck-ul li:before,#actividad .content .workspace ul li ul li:before,#actividad .popover-background.shown .popover-content>ul>li:before {
+#actividad .content .texto_curso .bck-ul li:before,
+#actividad .content .texto_curso ul li:before,
+#actividad .content .workspace ul li .bck-ul li:before,
+#actividad .content .workspace ul li ul li:before,
+#actividad .popover-background.shown .popover-content>ul>li:before {
     content: "";
     height: 6px;
     width: 6px;
@@ -1815,7 +1819,7 @@ hr {
     color: #333;
     border-radius: 50%;
     position: absolute;
-    margin-top: .45em;
+    margin-top: 18px;
     margin-left: 6px
 }
 
@@ -1847,7 +1851,7 @@ hr {
     color: #333;
     border-radius: 50%;
     position: absolute;
-    margin-top: 11px;
+    margin-top: 17px;
     margin-left: -2px;
 }
 
@@ -1883,7 +1887,7 @@ hr {
     color: #E42313;
     border-radius: 50%;
     position: absolute;
-    margin-top: 10px;
+    margin-top: 16px;
     margin-left: -2px;
     border: 1px solid #E42313;
 }
@@ -1920,7 +1924,7 @@ hr {
     color: #E42313;
     border-radius: 50%;
     position: absolute;
-    margin-top: 10px;
+    margin-top: 16px;
     margin-left: -2px;
 }
 
@@ -1955,7 +1959,7 @@ hr {
     background-color: transparent;
     border-radius: 50%;
     position: absolute;
-    margin-top: 3px;
+    margin-top: 11px;
     margin-left: 3px;
 }
 
@@ -1988,7 +1992,7 @@ hr {
     color: #333;
     border-radius: 50%;
     position: absolute;
-    margin-top: 12px;
+    margin-top: 20px;
     margin-left: -2px;
 }
 
@@ -2021,7 +2025,7 @@ hr {
     color: #333;
     border-radius: 50%;
     position: absolute;
-    margin-top: 11px;
+    margin-top: 19px;
     margin-left: -2px;
     border: 1px solid #333;
 }
@@ -2054,7 +2058,7 @@ hr {
     color: #333;
     border-radius: 50%;
     position: absolute;
-    margin-top: 11px;
+    margin-top: 19px;
     margin-left: -2px;
     border: 1px solid #333
 }
