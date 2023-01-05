@@ -2945,6 +2945,14 @@ hr {
     margin-top: -5px;
 }  
 
+.item-container .icon-exclamacion:before {
+    background-image: url(images/icono_info_diaporama.png);
+    width: 28px;
+    height: 28px;
+    margin-right: 8px;
+    margin-top: -5px;
+}
+
 
 /*tablas*/
 
