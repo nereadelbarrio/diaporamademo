@@ -488,7 +488,8 @@ body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
 }
 
 #indice .units ul li {
-    background: #757575
+    background: #757575;
+    border-radius: 11px;
 }
 
 button.btn.btn-primary.disabled {
@@ -689,7 +690,7 @@ button.btn.btn-primary.disabled {
 }
 
 body {
-    font-size: 2rem;
+    font-size: 18px;
     font-weight: 500;
     font-family: 'Noto Sans';
     color: #000
@@ -700,11 +701,11 @@ body {
 }
 
 #actividad .pregunta .texto_curso {
-    font-size: 2.2rem
+    font-size: 18px;
 }
 
 #actividad textarea {
-    font-size: 20px
+    font-size: 18px;
 }
 
 .texto_curso p:last-of-type {
@@ -746,7 +747,9 @@ body {
     margin-left: 10px
 }
 
-#book-index #indice .unit-content .actividades .item.active,#book-index #indice .unit-content .actividades .item.current,body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover {
+#book-index #indice .unit-content .actividades .item.active,
+#book-index #indice .unit-content .actividades .item.current,
+body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover {
     color: #fff;
     background: #000
 }
@@ -788,11 +791,18 @@ body {
     color: #000
 }
 
-#book-index #indice .unit-content .actividades .item .title:active,#book-index #indice .unit-content .actividades .item .title:focus,#book-index #indice .unit-content .actividades .item .title:hover {
+#book-index #indice .unit-content .actividades .item .title:active,
+#book-index #indice .unit-content .actividades .item .title:focus,
+#book-index #indice .unit-content .actividades .item .title:hover {
     color: #fff
 }
 
-#book-index #indice .unit-content .actividades .item.current a:active,#book-index #indice .unit-content .actividades .item.current a:focus,#book-index #indice .unit-content .actividades .item.current a:hover,#book-index #indice .unit-content .actividades .item a:active,#book-index #indice .unit-content .actividades .item a:focus,#book-index #indice .unit-content .actividades .item a:hover {
+#book-index #indice .unit-content .actividades .item.current a:active,
+#book-index #indice .unit-content .actividades .item.current a:focus,
+#book-index #indice .unit-content .actividades .item.current a:hover,
+#book-index #indice .unit-content .actividades .item a:active,
+#book-index #indice .unit-content .actividades .item a:focus,#
+book-index #indice .unit-content .actividades .item a:hover {
     color: #7c7c7c
 }
 
@@ -800,16 +810,21 @@ body {
     background-color: #428bca
 }
 
-#indice .units ul li.active:not(.disabled),#indice .units ul li:focus:not(.disabled) {
+#indice .units ul li.active:not(.disabled),
+#indice .units ul li:focus:not(.disabled) {
     background: #c2c2c2
 }
 
-body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title,body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover .title {
+body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title,
+body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover .title {
     font-size: 18px;
     font-weight: 400
 }
 
-#book-index #indice .unit-content a:active,#book-index #indice .unit-content a:focus,#book-index #indice .unit-content a:hover,#indice .actividades a:active,#indice .actividades a:focus,#indice .actividades a:hover,#indice .units ul li a:active,#indice .units ul li a:focus,#indice .units ul li a:hover {
+#book-index #indice .unit-content a:active,#book-index #indice .unit-content a:focus,
+#book-index #indice .unit-content a:hover,#indice .actividades a:active,
+#indice .actividades a:focus,#indice .actividades a:hover,#indice .units ul li a:active,
+#indice .units ul li a:focus,#indice .units ul li a:hover {
     color: #7c7c7c!important
 }
 
@@ -843,11 +858,14 @@ body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title,body:not
     color: #fff!important
 }
 
-#book-index #indice .unit-content .actividades .item:hover span.title,body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover span.text {
+#book-index #indice .unit-content .actividades .item:hover span.title,
+body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover span.text {
     color: #fff
 }
 
-#book-index #indice .unit-content .actividades .item.active,#book-index #indice .unit-content .actividades .item.current,body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active {
+#book-index #indice .unit-content .actividades .item.active,
+#book-index #indice .unit-content .actividades .item.current,
+body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active {
     background: #000
 }
 
@@ -4055,7 +4073,7 @@ body:not(.edit) .back .bck-flipbox-section,body:not(.edit) .back .bck-flipbox-ti
 }
 
 #actividad .workspace {
-    font-size: 2.2rem
+    font-size: 18px;
 }
 
 #actividad .description-deliverablefile {
@@ -4069,6 +4087,10 @@ body:not(.edit) .back .bck-flipbox-section,body:not(.edit) .back .bck-flipbox-ti
 #actividad .workspace.multiple-choice .opcion p img,#actividad .workspace.multiplechoice_horizontal .opcion p img {
     margin-top: 0;
     margin-bottom: 9px
+}
+
+.texto_curso li {
+	line-height: 2.2em!important;
 }
 
 .texto_curso li input {
