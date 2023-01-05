@@ -1231,6 +1231,16 @@ body.is_app .diaporamademo-navbar.ocultar {
     font-family: 'Noto Sans';
 }
 
+.bck-enfasis-11 {
+    background-color: #FFF265;
+    padding-top: 3px;
+}
+
+.bck-enfasis-12 {
+    background-color: #FFE596;
+    padding-top: 3px;
+}
+
 
 
 hr {
