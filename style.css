@@ -479,22 +479,29 @@ body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
     color: #fff
 }
 
-#indice .units ul li.active:not(.disabled),#indice .units ul li:focus:not(.disabled),#indice .units ul li:hover:not(.disabled),#list-units .unittag_no_unidad_diaporamademo.active:not(.disabled),#list-units .unittag_no_unidad_diaporamademo:hover,body:not(.isTablet) #indice .units ul li:hover:not(.disabled) {
-    background-color: #000!important
+#indice .units ul li.active:not(.disabled),
+#indice .units ul li:focus:not(.disabled),
+#indice .units ul li:hover:not(.disabled),
+#list-units .unittag_no_unidad_diaporamademo.active:not(.disabled),
+#list-units .unittag_no_unidad_diaporamademo:hover,
+body:not(.isTablet) #indice .units ul li:hover:not(.disabled) {
+    background-color: #27A798!important
 }
 
-#indice .units ul li a .title,body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
+#indice .units ul li a .title,
+body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
     color: #fff
 }
 
 #indice .units ul li {
-    background: #757575;
+    background: #939393;
     border-radius: 11px;
 }
 
 button.btn.btn-primary.disabled {
     font-size: 16px;
-    padding-top: 6px
+    padding-top: 6px;
+    border-radius: 11px;
 }
 
 #indice .unit-content .actividades {
@@ -731,13 +738,15 @@ body {
     text-decoration: none
 }
 
-#indice .units ul li.active:not(.disabled),#indice .units ul li:focus:not(.disabled),#list-units .unittag_azul_diaporamademo.active:not(.disabled),#list-units .unittag_azul_diaporamademo:hover,#list-units .unittag_marron_diaporamademo.active:not(.disabled),#list-units .unittag_marron_diaporamademo:hover,#list-units .unittag_morado_diaporamademo.active:not(.disabled),#list-units .unittag_morado_diaporamademo:hover,#list-units .unittag_naranja_diaporamademo.active:not(.disabled),#list-units .unittag_naranja_diaporamademo:hover,#list-units .unittag_oliva_diaporamademo.active:not(.disabled),#list-units .unittag_oliva_diaporamademo:hover,#list-units .unittag_rojo_diaporamademo.active:not(.disabled),#list-units .unittag_rojo_diaporamademo:hover,#list-units .unittag_rosa_diaporamademo.active:not(.disabled),#list-units .unittag_rosa_diaporamademo:hover,#list-units .unittag_verde_diaporamademo2.active:not(.disabled),#list-units .unittag_verde_diaporamademo:hover,#list-units .unittag_violeta_diaporamademo.active:not(.disabled),#list-units .unittag_violeta_diaporamademo:hover,body:not(.isTablet) #indice .units ul li:hover:not(.disabled) {
-    background-color: #000!important
+#indice .units ul li.active:not(.disabled),
+#indice .units ul li:focus:not(.disabled),
+body:not(.isTablet) #indice .units ul li:hover:not(.disabled) {
+    background-color: #27A798!important;
 }
 
 #book-index #indice .units ul li {
     opacity: 1;
-    background-color: #757575;
+    background-color: #939393;
     margin-bottom: 2px
 }
 
@@ -758,7 +767,8 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover {
     color: #fff
 }
 
-#book-index #indice .units ul li.active a,body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover {
+#book-index #indice .units ul li.active a,
+body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover {
     background: #000
 }
 
@@ -825,7 +835,7 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover .title {
 #book-index #indice .unit-content a:hover,#indice .actividades a:active,
 #indice .actividades a:focus,#indice .actividades a:hover,#indice .units ul li a:active,
 #indice .units ul li a:focus,#indice .units ul li a:hover {
-    color: #7c7c7c!important
+    color: #939393!important;
 }
 
 #book-index #indice .unit-content .actividades .item {
