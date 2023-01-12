@@ -732,7 +732,7 @@ body {
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     border-radius: 2px;
-    padding: 0 5px;
+    padding: 5px 5px;
     color: inherit;
     font-weight: 400;
     text-decoration: none
@@ -2562,6 +2562,16 @@ hr {
     background-color: #dee4ee
 }
 
+.rf-tgrid {
+	height: 26px;
+    width: 26px;
+    font-weight: bold;
+    font-size: 15px;
+    border: 1px solid transparent;
+    vertical-align: middle;
+    text-align: center;
+}
+
 .slide.wordsearch .rf-tgrid.selected-vertical.ejemplo {
     border-right-color: #3476ab;
     background-color: #dee4ee
@@ -2600,9 +2610,9 @@ hr {
     background-color: #e8e8e8
 }
 
-.rf-foundword,.rf-wordcontainer {
-    font-family: Conv_Calibre;
-    font-size: 2.2rem
+.rf-foundword,
+.rf-wordcontainer {
+    font-size: 18px;
 }
 
 .rf-wordcontainer {
@@ -2610,8 +2620,8 @@ hr {
 }
 
 .slide.crosswords-puzzle .enunciado {
-    font-size: 2.2rem;
-    margin-bottom: 10px
+    font-size: 18px;
+    margin-bottom: 10px;
 }
 
 .slide.crosswords-puzzle .enunciados,.slide.crosswords .enunciados {
@@ -2630,7 +2640,7 @@ hr {
     padding: 15px 5px 7px 15px;
     margin: 0;
     text-align: left;
-    font-size: 2.2rem
+    font-size: 18px;
 }
 
 #actividad .workspace.multiple-choice .opcion.solucion {
@@ -2668,7 +2678,7 @@ hr {
     margin: 0;
     text-align: center;
     padding: 8px 10px 0;
-    font-size: 2.2rem;
+    font-size: 18px;
     text-decoration: none
 }
 
@@ -2725,7 +2735,8 @@ hr {
 }
 
 #actividad .workspace.clasificar .clasificar_conjuntos span {
-    padding-top: 10px
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 #actividad .workspace.clasificar .clasificar_conjuntos img,#actividad .workspace.clasificar .clasificar_lista img {
@@ -2750,7 +2761,7 @@ hr {
 }
 
 #actividad .workspace.clasificar .clasificar_conjuntos .conjunto .group-box {
-    border: 1px solid #ee3a54;
+    border: 1px solid #000;
     border-radius: 1px
 }
 
@@ -2761,11 +2772,12 @@ hr {
 #actividad .workspace.clasificar .clasificar_conjuntos .group-name-top {
     text-align: center;
     font-weight: 700;
-    border-bottom: 1px solid #ee3a54;
+    border-bottom: 1px solid #000;
+    border-top: 1px solid #000;
     display: table;
     width: 100%;
     margin: -1px 0 0;
-    background-color: #ee3a54;
+    background-color: #939393;
     color: #fff
 }
 
@@ -2774,15 +2786,15 @@ hr {
     height: 100%;
     min-height: 220px;
     word-wrap: break-word;
-    background-color: #fcd7d0
+    background-color: #fff;
 }
 
 #actividad .workspace.clasificar .clasificar_conjuntos .classify-item {
     text-align: center;
-    margin-bottom: 5px;
-    border-bottom: 2px solid #ee3a54;
+    margin-bottom: 4px;
     cursor: pointer;
-    background-color: #fff8f6
+    background-color: #fafafa;
+    padding: 0 10px;
 }
 
 #actividad .drag .circulo_gris p {
@@ -2836,8 +2848,11 @@ hr {
     margin-top: -7px
 }
 
-#actividad .workspace.test .checkbox-option label.filter-label,#actividad .workspace.test .radio-option label.filter-label,#actividad .workspace.true-false .checkbox-option label.filter-label,#actividad .workspace.true-false .radio-option label.filter-label {
-    font-size: 2.2rem;
+#actividad .workspace.test .checkbox-option label.filter-label,
+#actividad .workspace.test .radio-option label.filter-label,
+#actividad .workspace.true-false .checkbox-option label.filter-label,
+#actividad .workspace.true-false .radio-option label.filter-label {
+    font-size: 18px;
     font-weight: 400;
     margin-left: 20px
 }
@@ -2847,7 +2862,7 @@ hr {
 }
 
 #actividad .workspace.memory .flip-container p {
-    font-size: 2.2rem
+    font-size: 18px;
 }
 
 .no-files {
@@ -2885,7 +2900,8 @@ hr {
     background-color: #e30613
 }
 
-.btn-danger,.btn-danger[disabled] {
+.btn-danger,
+.btn-danger[disabled] {
     color: #fff;
     border-color: transparent;
     border-radius: 0
@@ -3479,6 +3495,7 @@ table td.bck-td-8 {
     text-align: center;
     font-weight: 700;
     border-bottom: 1px solid #86a43e;
+    border-top: 1px solid #86a43e;
     display: table;
     width: 100%;
     margin: -1px 0 0;
@@ -4343,7 +4360,7 @@ a:hover {
 }
 
 #actividad textarea {
-    font-size: 2.2rem
+    font-size: 18px
 }
 
 @media only screen and (max-width: 768px) {
