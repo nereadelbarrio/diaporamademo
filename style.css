@@ -760,7 +760,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled) {
 #book-index #indice .unit-content .actividades .item.current,
 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover {
     color: #fff;
-    background: #000
+    background: #27A798;
 }
 
 #book-index #indice .unit-content .actividades .item.current span.title {
@@ -769,7 +769,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover {
 
 #book-index #indice .units ul li.active a,
 body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover {
-    background: #000
+    background: #27a798;
 }
 
 #book-index .col-main {
@@ -839,7 +839,7 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover .title {
 }
 
 #book-index #indice .unit-content .actividades .item {
-    background: #eee
+    background: #c8c8c8;
 }
 
 #book-index #indice .unit-content .actividades .item .text {
@@ -876,7 +876,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover s
 #book-index #indice .unit-content .actividades .item.active,
 #book-index #indice .unit-content .actividades .item.current,
 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active {
-    background: #000
+    background: #27a798;
 }
 
 .diaporamademo-navbar h3 {
