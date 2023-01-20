@@ -1331,6 +1331,11 @@ body.is_app .diaporamademo-navbar.ocultar {
     font-style: italic;
 }
 
+.bck-enfasis-15 {
+	text-decoration: line-through;
+    text-decoration-color: #E42313;
+}
+
 
 hr {
     border-top: 3px solid #000
