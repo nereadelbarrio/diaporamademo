@@ -29,6 +29,8 @@ padre>diaporamademo*/
 				{ name: 'Título 11', element: 'h3', attributes: { 'class': 'bck-title bck-title-11'} },
 				{ name: 'Título 12', element: 'h3', attributes: { 'class': 'bck-title bck-title-12'} },
 				{ name: 'Título 13', element: 'h3', attributes: { 'class': 'bck-title bck-title-13'} },
+				{ name: 'Título 14', element: 'h3', attributes: { 'class': 'bck-title bck-title-14'} },
+				{ name: 'Título 15', element: 'h3', attributes: { 'class': 'bck-title bck-title-15'} },
 
 				
 				{ name: 'Énfasis 01', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
