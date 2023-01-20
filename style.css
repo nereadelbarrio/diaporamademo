@@ -465,6 +465,18 @@ padre>diaporamademo*/
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'Times LT Std';
+    src: url('fonts/TimesLTStd-Phonetic.eot');
+    src: url('fonts/TimesLTStd-Phonetic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/TimesLTStd-Phonetic.woff2') format('woff2'),
+        url('fonts/TimesLTStd-Phonetic.woff') format('woff'),
+        url('fonts/TimesLTStd-Phonetic.ttf') format('truetype'),
+        url('fonts/TimesLTStd-Phonetic.svg#TimesLTStd-Phonetic') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
 
 
 
