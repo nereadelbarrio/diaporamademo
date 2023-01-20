@@ -1326,6 +1326,11 @@ body.is_app .diaporamademo-navbar.ocultar {
     font-weight: 900;
 }
 
+.bck-enfasis-14 {
+    color: #E42313;
+    font-style: italic;
+}
+
 
 hr {
     border-top: 3px solid #000
