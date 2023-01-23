@@ -2209,6 +2209,53 @@ hr {
     display: none
 }
 
+/*caja 9*/
+.bck-box.bck-box-9 {
+	background-color: #27A798;
+    border: 0;
+    text-align: left;
+    border-radius: 0 0 20px 20px;
+    position: relative;
+    width: 70%;
+    border-bottom: 3px solid #fff;
+    border-left: 3px solid #fff;
+    border-bottom-right-radius: 0px;
+    margin-left: 59px;
+}
+
+.bck-box-9>.bck-title {
+	color: #27A798;
+    font-size: 14.8rem;
+    background: #fff;
+    padding: 0px 28px;
+    font-weight: 800;
+    max-width: 163px;
+    border-radius: 111px;
+    max-height: 145px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -73px;
+    margin-top: 7px;
+    position: absolute;
+    z-index: 1000;
+}
+
+.bck-box.bck-box-9>.bck-content {
+    padding: 20px 20px 20px 125px;
+    font-size: 4rem;
+    background: transparent;
+    width: fit-content;
+    margin-left: -28px;
+    font-weight: 800;
+}
+
+.bck-box.bck-box-9>.bck-content p {
+    color: #fff;
+}
+
+/**/
+
 
 
 .popover-title {
