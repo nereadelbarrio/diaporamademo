@@ -33,7 +33,8 @@ padre>diaporamademo*/
 				{ name: 'Título 15', element: 'h3', attributes: { 'class': 'bck-title bck-title-15'} },
 				{ name: 'Título 16', element: 'h3', attributes: { 'class': 'bck-title bck-title-16'} },
 				{ name: 'Título 17', element: 'h3', attributes: { 'class': 'bck-title bck-title-17'} },
-
+				{ name: 'Título 18', element: 'h3', attributes: { 'class': 'bck-title bck-title-18'} },
+				{ name: 'Título 19', element: 'h3', attributes: { 'class': 'bck-title bck-title-19'} },	
 				
 				{ name: 'Énfasis 01', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 				{ name: 'Énfasis 02', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
@@ -52,6 +53,7 @@ padre>diaporamademo*/
 				{ name: 'Énfasis 15', element: 'span', attributes: { 'class': 'bck-enfasis-15'} },
 				{ name: 'Énfasis 16', element: 'span', attributes: { 'class': 'bck-enfasis-16'} },
 				{ name: 'Énfasis 17', element: 'span', attributes: { 'class': 'bck-enfasis-17'} },
+				{ name: 'Énfasis 18', element: 'span', attributes: { 'class': 'bck-enfasis-18'} },
 			
 				{ name: 'Lista Ordenada 01', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
 				{ name: 'Lista Ordenada 02', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-2' } },
