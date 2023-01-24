@@ -1239,12 +1239,6 @@ body.is_app .diaporamademo-navbar.ocultar {
     font-weight: 900;
 }
 
-/*.bck-title-15 {
-	color: #22AEB9;
-    font-size: 2.6rem;
-    font-weight: 900;
-}*/
-
 .bck-title-15 {
     color: #008F78;
     font-size: 2.8rem;
@@ -1273,6 +1267,27 @@ body.is_app .diaporamademo-navbar.ocultar {
     font-weight: 900;
 }
 
+.bck-title-18 {
+    color: #773582;
+    font-size: 2.8rem;
+    padding-left: 12px;
+    padding-bottom: 7px;
+    font-weight: 700;
+    border-bottom: 3px solid #773582;
+    border-left: 3px solid #773582;
+    border-radius: 27px;
+    border-top: 1px solid #fff;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    text-transform: uppercase;
+    font-family: 'Noto Sans';
+}
+
+.bck-title-19 {
+	color: #773582;
+    font-size: 2.6rem;
+    font-weight: 900;
+}
 
 /*enfasis*/
 
@@ -1394,6 +1409,13 @@ body.is_app .diaporamademo-navbar.ocultar {
     display: inline-block;
     margin-bottom: 8px;
     border-radius: 9px;
+}
+
+.bck-enfasis-18 {
+    color: #773582;
+    font-size: 2.8rem;
+    font-weight: 300;
+    font-family: 'Noto Sans';
 }
 
 
@@ -3172,10 +3194,10 @@ hr {
 
 .item-container .icon-ecrite-compréhension:before {
     background-image: url(images/icono_comprehension_ecrite_diaporama.png);
-    width: 70px;
-    height: 65px;
+    width: 79px;
+    height: 66px;
     margin-right: 5px;
-    margin-top: -7px;
+    margin-top: -11px;
 }
 .item-container .icon-oral-compréhension:before {
     background-image: url(images/icono_comprehension_oral_diaporama.png);
@@ -3186,17 +3208,17 @@ hr {
 }
 .item-container .icon-lapiz-compréhension:before {
     background-image: url(images/icono_comprehension_ecrite_lapiz_diaporama.png);
-    width: 70px;
+    width: 79px;
     height: 65px;
     margin-right: 5px;
     margin-top: -7px;
 }
 .item-container .icon-hablar-compréhension:before {
     background-image: url(images/icono_comprehension_hablar_diaporama.png);
-    width: 64px;
-    height: 64px;
+    width: 82px;
+    height: 66px;
     margin-right: 5px;
-    margin-top: -7px;
+    margin-top: -8px;
 }
 
 
