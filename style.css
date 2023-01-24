@@ -1348,6 +1348,16 @@ body.is_app .diaporamademo-navbar.ocultar {
     text-decoration-color: #E42313;
 }
 
+.bck-enfasis-16 {
+    color: #000;
+    font-weight: 500;
+    background-color: #fff;
+    padding: 4px 12px 4px;
+    display: inline-block;
+    margin-bottom: 8px;
+    border-radius: 9px;
+}
+
 
 hr {
     border-top: 3px solid #000
@@ -3130,7 +3140,7 @@ table.bck-table-10 {
 }
 
 table.bck-table-10 td {
-    border-color: #68B435
+    border: 2px solid #68B435;
 }
 
 table.bck-table-10 td.bck-td-9 {
