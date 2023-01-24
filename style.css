@@ -2221,22 +2221,23 @@ hr {
     border-left: 3px solid #fff;
     border-bottom-right-radius: 0px;
     margin-left: 59px;
+    padding: 20px 0px;
 }
 
 .bck-box-9>.bck-title {
 	color: #27A798;
-    font-size: 14.8rem;
+    font-size: 14rem;
     background: #fff;
     padding: 0px 28px;
     font-weight: 800;
-    max-width: 163px;
+    max-width: 152px;
     border-radius: 111px;
-    max-height: 145px;
+    max-height: 137px;
     display: flex;
     justify-content: center;
     align-items: center;
     margin-left: -73px;
-    margin-top: 0px;
+    margin-top: -15px;
     position: absolute;
     z-index: 1000;
 }
