@@ -1358,6 +1358,16 @@ body.is_app .diaporamademo-navbar.ocultar {
     border-radius: 9px;
 }
 
+.bck-enfasis-17 {
+    color: #1D9A87;
+    font-weight: 500;
+    background-color: #BFDCD6;
+    padding: 4px 12px 4px;
+    display: inline-block;
+    margin-bottom: 8px;
+    border-radius: 9px;
+}
+
 
 hr {
     border-top: 3px solid #000
