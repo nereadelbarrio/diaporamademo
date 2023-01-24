@@ -1503,6 +1503,7 @@ hr {
     position: relative;
     z-index: 0;
     font-size: 18px;
+    color: #fff;
 }
 
 #actividad .content .cke_contents .bck-ol-4 li:before,
