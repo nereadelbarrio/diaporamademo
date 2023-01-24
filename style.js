@@ -90,6 +90,7 @@ padre>diaporamademo*/
 				{ name: 'Icono Ecrite Production', element: 'span', attributes: { 'class': 'icon icon-production-ecrite' } },
 				{ name: 'Icono Audio', element: 'span', attributes: { 'class': 'icon icon-audio' } },
 				{ name: 'Icono Exclamación', element: 'span', attributes: { 'class': 'icon icon-exclamacion' } },
+				{ name: 'Icono Colores', element: 'span', attributes: { 'class': 'icon icon-colores' } },
 				
 				{ name: 'Tabla 01', element: 'table', attributes: { 'class': 'bck-table-1' } },
 				{ name: 'Tabla 02', element: 'table', attributes: { 'class': 'bck-table-2' } },
