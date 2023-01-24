@@ -93,6 +93,7 @@ padre>diaporamademo*/
 				{ name: 'Tabla 07', element: 'table', attributes: { 'class': 'bck-table-7' } },
 				{ name: 'Tabla 08', element: 'table', attributes: { 'class': 'bck-table-8' } },
 				{ name: 'Tabla 09', element: 'table', attributes: { 'class': 'bck-table-9' } },
+				{ name: 'Tabla 10', element: 'table', attributes: { 'class': 'bck-table-10' } },
 
 				{ name: 'Celda 01', element: 'td', attributes: { 'class': 'bck-td-1' } },
 				{ name: 'Celda 02', element: 'td', attributes: { 'class': 'bck-td-2' } },
@@ -102,6 +103,7 @@ padre>diaporamademo*/
 				{ name: 'Celda 06', element: 'td', attributes: { 'class': 'bck-td-6' } },
 				{ name: 'Celda 07', element: 'td', attributes: { 'class': 'bck-td-7' } },
 				{ name: 'Celda 08', element: 'td', attributes: { 'class': 'bck-td-8' } },
+				{ name: 'Celda 09', element: 'td', attributes: { 'class': 'bck-td-9' } },
 
 				{ name: 'Desplegable 1', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-1' } }
 			]
