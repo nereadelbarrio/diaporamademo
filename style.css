@@ -3125,6 +3125,17 @@ table.bck-table-9 td.bck-td-8 {
     border: 2px solid #fff;
 }
 
+table.bck-table-10 {
+    border: 2px solid #68B435
+}
+
+table.bck-table-10 td {
+    border-color: #68B435
+}
+
+table.bck-table-10 td.bck-td-9 {
+    border: 2px solid #fff;
+}
 
 
 table td.bck-td-1 {
