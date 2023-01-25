@@ -2572,6 +2572,35 @@ hr {
     color: #fff;
 }
 
+/*caja 011*/
+.bck-box.bck-box-11 {
+    background: transparent;
+    border: 0;
+    text-align: left;
+    border-radius: 0 0 20px 20px;
+}
+
+.bck-box-11>.bck-title {
+    border: 0;
+    color: #000;
+    text-align: left;
+    font-size: 18px;
+    background: #905A98;
+    padding: 6px 17px 0;
+    font-weight: 500;
+    font-family: 'Minion Pro';
+}
+
+.bck-box.bck-box-11>.bck-content {
+    padding: 20px 17px;
+    background: #E1D5E8;
+    font-family: 'Corpid Cd';
+}
+
+.bck-box.bck-box-11>.bck-title:before {
+    display: none
+}
+
 
 /**/
 
