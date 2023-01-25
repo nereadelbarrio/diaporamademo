@@ -3258,7 +3258,7 @@ hr {
 }
 .item-container .icon-oral-compréhension:before {
     background-image: url(images/icono_comprehension_oral_diaporama.png);
-    width: 70px;
+    width: 81px;
     height: 65px;
     margin-right: 5px;
     margin-top: -7px;
@@ -3272,8 +3272,8 @@ hr {
 }
 .item-container .icon-hablar-compréhension:before {
     background-image: url(images/icono_comprehension_hablar_diaporama.png);
-    width: 82px;
-    height: 66px;
+    width: 64px;
+    height: 64px;
     margin-right: 5px;
     margin-top: -8px;
 }
