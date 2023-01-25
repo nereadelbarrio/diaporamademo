@@ -3506,6 +3506,13 @@ table.bck-table-11 td.bck-td-10 {
     border: 3px solid #fff;
 }
 
+table td.bck-td-11 {
+    background-color: #905A98;
+    color: #000;
+    font-size: inherit;
+    padding: 8px;
+}
+
 
 .btn-primary {
     background-color: rgba(66,139,202,.788235294117647)
