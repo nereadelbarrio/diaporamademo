@@ -202,6 +202,18 @@ padre>diaporamademo*/
 }
 
 @font-face {
+    font-family: 'McLaren';
+    src: url('fonts/McLaren-Regular.eot');
+    src: url('fonts/McLaren-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/McLaren-Regular.woff2') format('woff2'),
+        url('fonts/McLaren-Regular.woff') format('woff'),
+        url('fonts/McLaren-Regular.ttf') format('truetype'),
+        url('fonts/McLaren-Regular.svg#McLaren-Regular') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
     font-family: 'Monoton';
     src: url('fonts/Monoton-Regular.eot');
     src: url('fonts/Monoton-Regular.eot?#iefix') format('embedded-opentype'),
@@ -2515,6 +2527,36 @@ hr {
 .bck-box.bck-box-9>.bck-content p {
     color: #fff;
 }
+
+
+/*caja 10*/
+.bck-box.bck-box-10 {
+	background-color: #27A798;
+    border: 0;
+    text-align: left;
+    position: relative;
+    width: fit-content;
+    padding: 20px 0px;
+}
+
+.bck-box-10>.bck-title {
+    color: #fff;
+    font-size: 10rem;
+    background: red;
+    padding: 0px 28px;
+    font-weight: 800;
+    max-width: 110px;
+    border-radius: 111px;
+    max-height: 113px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -2px;
+    margin-top: -135px;
+    position: absolute;
+    z-index: 1000;
+}
+
 
 /**/
 
