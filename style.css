@@ -2536,13 +2536,13 @@ hr {
     text-align: left;
     position: relative;
     width: fit-content;
-    padding: 20px 0px;
+    padding: 5px 0px;
 }
 
 .bck-box-10>.bck-title {
     color: #fff;
     font-size: 10rem;
-    background: red;
+    background: #27a798;
     padding: 0px 28px;
     font-weight: 800;
     max-width: 110px;
@@ -2555,6 +2555,15 @@ hr {
     margin-top: -135px;
     position: absolute;
     z-index: 1000;
+}
+
+.bck-box.bck-box-10>.bck-content {
+    padding: 20px;
+    font-size: 4rem;
+    background: transparent;
+    width: fit-content;
+    font-family: 'McLaren';
+    font-weight: 600;
 }
 
 
