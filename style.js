@@ -87,6 +87,7 @@ padre>diaporamademo*/
 				{ name: 'Caja 07', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-7' } },
 				{ name: 'Caja 08', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-8' } },
 				{ name: 'Caja 09', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-9' } },
+				{ name: 'Caja 10', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-10' } },
 				
 				{ name: 'Icono Orale Production', element: 'span', attributes: { 'class': 'icon icon-production-orale' } },
 				{ name: 'Icono Ecrite Production', element: 'span', attributes: { 'class': 'icon icon-production-ecrite' } },
