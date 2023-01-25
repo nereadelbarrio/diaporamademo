@@ -3307,6 +3307,22 @@ hr {
     margin-top: -8px;
 }
 
+.item-container .icon-flecha-arriba:before {
+    background-image: url(images/icono_flechaabajo_diaporama.png);
+    width: 49px;
+    height: 26px;
+    margin-right: 5px;
+    margin-top: 0px;
+}
+
+.item-container .icon-flecha-abajo:before {
+    background-image: url(images/icono_flechaabajo_diaporama.png);
+    width: 49px;
+    height: 26px;
+    margin-right: 5px;
+    margin-top: 0px;
+}
+
 
 /*tablas*/
 
