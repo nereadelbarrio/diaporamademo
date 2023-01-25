@@ -99,6 +99,8 @@ padre>diaporamademo*/
 				{ name: 'Icono oral compréhension', element: 'span', attributes: { 'class': 'icon icon-oral-compréhension' } },
 				{ name: 'Icono lapiz compréhension', element: 'span', attributes: { 'class': 'icon icon-lapiz-compréhension' } },
 				{ name: 'Icono hablar compréhension', element: 'span', attributes: { 'class': 'icon icon-hablar-compréhension' } },
+				{ name: 'Icono flecha arriba', element: 'span', attributes: { 'class': 'icon icon-flecha-arriba' } },
+				{ name: 'Icono flecha abajo', element: 'span', attributes: { 'class': 'icon icon-flecha-abajo' } },
 				
 				{ name: 'Tabla 01', element: 'table', attributes: { 'class': 'bck-table-1' } },
 				{ name: 'Tabla 02', element: 'table', attributes: { 'class': 'bck-table-2' } },
