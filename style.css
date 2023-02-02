@@ -1435,6 +1435,11 @@ body.is_app .diaporamademo-navbar.ocultar {
 	font-family: 'Times LT Std';
 }
 
+.bck-enfasis-20 {
+	text-decoration: line-through;
+    text-decoration-color: #0076BD;
+}
+
 
 hr {
     border-top: 3px solid #000
