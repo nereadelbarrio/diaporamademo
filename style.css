@@ -2602,6 +2602,34 @@ hr {
 }
 
 
+/*caja 012*/
+.bck-box.bck-box-12 {
+    background: transparent;
+    border: 0;
+    text-align: left;
+    border-radius: 0 0 20px 20px;
+}
+
+.bck-box-12>.bck-title {
+    border: 0;
+    color: #000;
+    text-align: left;
+    font-size: 18px;
+    background: #F8C421;
+    padding: 6px 17px 0;
+    font-weight: 700;
+}
+
+.bck-box.bck-box-12>.bck-content {
+    padding: 20px 17px;
+    background: #FEF5D9;
+}
+
+.bck-box.bck-box-12>.bck-title:before {
+    display: none
+}
+
+
 /**/
 
 
