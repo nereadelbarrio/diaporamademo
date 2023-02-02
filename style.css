@@ -682,6 +682,7 @@ button.btn.btn-primary.disabled {
 }
 
 .content_type_curso_diaporamademo .libro-left ul li .title:before {
+	display: none;
     content: "";
     background-size: contain;
     top: 10px;
@@ -702,7 +703,8 @@ button.btn.btn-primary.disabled {
 }
 
 .navbar-content .logo-publisher {
-    display: inline-block;
+    display: none;
+    /*display: inline-block;*/
     position: absolute;
     top: -3px;
     left: 10px;
