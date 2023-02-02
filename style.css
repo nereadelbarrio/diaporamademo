@@ -3354,14 +3354,16 @@ hr {
 
 /*tablas*/
 
-.bck-table,table {
+.bck-table,
+table {
     border: 0 solid transparent;
 }
 
-.bck-table td,table td {
-    border-color: #fff;
+.bck-table td,
+table td {
+    border-color: transparent;
     padding: 18px 10px 10px;
-    background-color: #fff
+    background-color: transparent;
 }
 
 td,th {
