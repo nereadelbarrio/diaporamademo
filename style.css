@@ -3355,7 +3355,7 @@ hr {
 /*tablas*/
 
 .bck-table,table {
-    border: 0 solid #fff
+    border: 0 solid transparent;
 }
 
 .bck-table td,table td {
