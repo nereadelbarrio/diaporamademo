@@ -1431,6 +1431,11 @@ body.is_app .diaporamademo-navbar.ocultar {
 }
 
 
+.bck-enfasis-19 {
+	font-family: 'Times LT Std';
+}
+
+
 hr {
     border-top: 3px solid #000
 }
@@ -2588,7 +2593,8 @@ hr {
     background: #905A98;
     padding: 6px 17px 0;
     font-weight: 500;
-    font-family: 'Minion Pro';
+    /*font-family: 'Minion Pro';*/
+    font-family: 'Times LT Std';
 }
 
 .bck-box.bck-box-11>.bck-content {
