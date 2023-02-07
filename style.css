@@ -1442,6 +1442,10 @@ body.is_app .diaporamademo-navbar.ocultar {
     text-decoration-color: #0076BD;
 }
 
+.bck-enfasis-21 {
+	border-bottom: 1px solid #E42313;
+}
+
 
 hr {
     border-top: 3px solid #000
