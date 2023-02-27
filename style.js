@@ -132,6 +132,7 @@ padre>diaporamademo*/
 				{ name: 'Celda 09', element: 'td', attributes: { 'class': 'bck-td-9' } },
 				{ name: 'Celda 10', element: 'td', attributes: { 'class': 'bck-td-10' } },
 				{ name: 'Celda 11', element: 'td', attributes: { 'class': 'bck-td-11' } },
+				{ name: 'Celda 12', element: 'td', attributes: { 'class': 'bck-td-12' } },
 
 				{ name: 'Desplegable 1', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-1' } }
 			]
