@@ -1766,6 +1766,7 @@ hr {
     left: -6px;
     position: relative;
     color: #fff;
+    background-color: #A58860;
     padding-left: 10px;
     padding-top: 0px;
     padding-right: 10px;
@@ -1806,6 +1807,7 @@ hr {
     left: -6px;
     position: relative;
     color: #fff;
+    background-color: #A58860;
     padding-left: 10px;
     padding-top: 0px;
     padding-right: 10px;
@@ -3712,6 +3714,12 @@ table td.bck-td-11 {
     padding: 8px;
 }
 
+table td.bck-td-12 {
+    background-color: #FEF5D9;
+    color: #000;
+    font-size: inherit;
+    padding: 8px;
+}
 
 .btn-primary {
     background-color: rgba(66,139,202,.788235294117647)
