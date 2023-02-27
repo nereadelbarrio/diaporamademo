@@ -1736,6 +1736,86 @@ hr {
     top: 0;
 }
 
+
+#actividad .content .cke_contents .bck-ol-8,
+#actividad .content .texto_curso .bck-ol-8,
+#actividad .content .workspace ul li .bck-ol-8 {
+    list-style-type: none;
+    counter-reset: bck-li-counter;
+    padding-left: 44px
+}
+
+#actividad .content .cke_contents .bck-ol-8 li,
+#actividad .content .texto_curso .bck-ol-8 li,
+#actividad .content .workspace ul li .bck-ol-8 li,
+#actividad .popover-content .bck-ol-8 li {
+    padding-left: 0px;
+}
+
+#actividad .content .cke_contents .bck-ol-8 li:before,
+#actividad .content .texto_curso ol.bck-ol-8 li:before,
+#actividad .content .workspace ul li ol.bck-ol-8 li:before,
+#actividad .popover-content ol.bck-ol-8 li:before {
+    content: counter(bck-li-counter,upper-alpha);
+    font-family: 'Noto Sans';
+    font-weight: 900;
+    text-align: right;
+    font-size: 19px;
+    width: 31px;
+    margin-top: 0;
+    left: -6px;
+    position: relative;
+    color: #fff;
+    padding-left: 10px;
+    padding-top: 0px;
+    padding-right: 10px;
+    width: 50px;
+    height: 25px;
+    margin-top: 0;
+    margin-left: -34px;
+    text-align: center;
+}
+
+
+#actividad .content .cke_contents .bck-ol-9,
+#actividad .content .texto_curso .bck-ol-9,
+#actividad .content .workspace ul li .bck-ol-9 {
+    list-style-type: none;
+    counter-reset: bck-li-counter;
+    padding-left: 44px
+}
+
+#actividad .content .cke_contents .bck-ol-9 li,
+#actividad .content .texto_curso .bck-ol-9 li,
+#actividad .content .workspace ul li .bck-ol-9 li,
+#actividad .popover-content .bck-ol-9 li {
+    padding-left: 0px;
+}
+
+#actividad .content .cke_contents .bck-ol-9 li:before,
+#actividad .content .texto_curso ol.bck-ol-9 li:before,
+#actividad .content .workspace ul li ol.bck-ol-9 li:before,
+#actividad .popover-content ol.bck-ol-9 li:before {
+    content: counter(bck-li-counter);
+    font-family: 'Noto Sans';
+    font-weight: 900;
+    text-align: right;
+    font-size: 19px;
+    width: 31px;
+    margin-top: 0;
+    left: -6px;
+    position: relative;
+    color: #fff;
+    padding-left: 10px;
+    padding-top: 0px;
+    padding-right: 10px;
+    width: 50px;
+    height: 25px;
+    margin-top: 0;
+    margin-left: -34px;
+    text-align: center;
+}
+
 /**/
 
 .texto_curso ul li {
@@ -2645,6 +2725,33 @@ hr {
 .bck-box.bck-box-12>.bck-title:before {
     display: none
 }
+
+/*caja 013*/
+.bck-box.bck-box-13 {
+    background: #DDEDE2;
+    border: 0;
+    border-radius: 0;
+    color: #333;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 6px 0 #bababa;
+}
+
+.bck-box.bck-box-13>.bck-content,
+.bck-box.bck-box-13>.bck-title {
+    color: #333;
+    background: #DDEDE2;
+    padding: 5px;
+}
+
+.bck-box.bck-box-13>.bck-title:before {
+    display: none
+}
+
+.bck-box.bck-box-13>.bck-title p {
+    text-align: left;
+}
+
 
 
 /**/
