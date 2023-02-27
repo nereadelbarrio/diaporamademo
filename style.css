@@ -3403,7 +3403,7 @@ hr {
     height: 80px;
     margin-right: 6px;
     margin-top: -7px;
-    margin-left: -21px;
+    margin-left: 0px;
 }
 
 .item-container .icon-colores:before {
