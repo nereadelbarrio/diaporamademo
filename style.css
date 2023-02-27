@@ -1475,16 +1475,16 @@ body.is_app .diaporamademo-navbar.ocultar {
 }
 
 .bck-enfasis-26 {
-    font-size: 28px;
+   font-size: 28px;
     font-weight: 700;
     position: absolute;
     color: #fff;
     background-color: #773582;
-    width: 35px;
-    height: 35px;
-    padding: 5px 1px 0;
+    width: 40px;
+    height: 40px;
+    padding: 6px 1px 0;
     margin-top: -5px;
-    margin-left: -8px;
+    margin-left: 0px;
     text-align: center;
     border-radius: 100%;
 }
