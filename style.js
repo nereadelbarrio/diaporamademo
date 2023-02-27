@@ -115,6 +115,7 @@ padre>diaporamademo*/
 				{ name: 'Icono hablar compréhension', element: 'span', attributes: { 'class': 'icon icon-hablar-compréhension' } },
 				{ name: 'Icono flecha arriba', element: 'span', attributes: { 'class': 'icon icon-flecha-arriba' } },
 				{ name: 'Icono flecha abajo', element: 'span', attributes: { 'class': 'icon icon-flecha-abajo' } },
+				{ name: 'Icono flecha amarilla', element: 'span', attributes: { 'class': 'icon icon-flecha-amarilla' } },
 				
 				{ name: 'Tabla 01', element: 'table', attributes: { 'class': 'bck-table-1' } },
 				{ name: 'Tabla 02', element: 'table', attributes: { 'class': 'bck-table-2' } },
