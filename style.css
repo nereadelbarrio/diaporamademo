@@ -1455,6 +1455,16 @@ body.is_app .diaporamademo-navbar.ocultar {
     color: #000;
 }
 
+.bck-enfasis-23:before {
+    content: "\f00c";
+    font-family: FontAwesome;
+    padding: 7px;
+    margin-left: 0px;
+    margin-top: -17px;
+    color: #3557A2;
+}
+
+---------
 
 
 hr {
