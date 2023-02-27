@@ -57,6 +57,8 @@ padre>diaporamademo*/
 				{ name: 'Énfasis 19', element: 'span', attributes: { 'class': 'bck-enfasis-19'} },
 				{ name: 'Énfasis 20', element: 'span', attributes: { 'class': 'bck-enfasis-20'} },
 				{ name: 'Énfasis 21', element: 'span', attributes: { 'class': 'bck-enfasis-21'} },
+				{ name: 'Énfasis 22', element: 'span', attributes: { 'class': 'bck-enfasis-22'} },
+
 			
 				{ name: 'Lista Ordenada 01', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
 				{ name: 'Lista Ordenada 02', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-2' } },
@@ -82,6 +84,7 @@ padre>diaporamademo*/
 				{ name: 'Lista Desordenada 12', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-12' } },
 				{ name: 'Lista Desordenada 13', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-13' } },
 				{ name: 'Lista Desordenada 14', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-14' } },
+				{ name: 'Lista Desordenada 15', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-15' } },
 				
 				{ name: 'Caja 01', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-1' } },
 				{ name: 'Caja 02', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-2' } },
