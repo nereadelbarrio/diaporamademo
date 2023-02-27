@@ -70,6 +70,7 @@ padre>diaporamademo*/
 				{ name: 'Lista Ordenada 07', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-7' } },
 				{ name: 'Lista Ordenada 08', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-8' } },
 				{ name: 'Lista Ordenada 09', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-9' } },
+				{ name: 'Lista Ordenada 10', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-10' } },
 
 				{ name: 'Lista Desordenada 01', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-1' } },
 				{ name: 'Lista Desordenada 02', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-2' } },
