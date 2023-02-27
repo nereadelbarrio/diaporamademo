@@ -1446,7 +1446,7 @@ body.is_app .diaporamademo-navbar.ocultar {
 	border-bottom: 1px solid #E42313;
 }
 
-.bck-enfasis-22 {
+.bck-enfasis-22:before {
     content: "\f061";
     font-family: FontAwesome;
     padding: 7px;
