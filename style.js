@@ -128,6 +128,7 @@ padre>diaporamademo*/
 				{ name: 'Tabla 09', element: 'table', attributes: { 'class': 'bck-table-9' } },
 				{ name: 'Tabla 10', element: 'table', attributes: { 'class': 'bck-table-10' } },
 				{ name: 'Tabla 11', element: 'table', attributes: { 'class': 'bck-table-11' } },
+				{ name: 'Tabla 12', element: 'table', attributes: { 'class': 'bck-table-12' } },
 
 				{ name: 'Celda 01', element: 'td', attributes: { 'class': 'bck-td-1' } },
 				{ name: 'Celda 02', element: 'td', attributes: { 'class': 'bck-td-2' } },
