@@ -1464,6 +1464,15 @@ body.is_app .diaporamademo-navbar.ocultar {
     color: #3557A2;
 }
 
+.bck-enfasis-24 {
+    border-bottom: 2px solid #005DA9;
+}
+
+.bck-enfasis-24 {
+    background-color: #FFED00;
+    padding-top: 3px;
+}
+
 ---------
 
 
