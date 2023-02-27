@@ -643,7 +643,8 @@ button.btn.btn-primary.disabled {
     border-radius: 50%
 }
 
-#indice .unit-content .material .item .imagen.archivo:after,#indice .unit-content .material .item .imagen.pdf:after {
+#indice .unit-content .material .item .imagen.archivo:after,
+#indice .unit-content .material .item .imagen.pdf:after {
     background-image: url(images/icono_video_materialapoyo_diaporama.png);
     background-color: #000;
     border-radius: 50%
@@ -3572,6 +3573,14 @@ hr {
     height: 26px;
     margin-right: 5px;
     margin-top: 0px;
+}
+
+.item-container .icon-flecha-amarilla:before {
+    width: 24px;
+    background-image: url(images/iconoflechaamarilla_diaporamademo.png);
+    height: 24px;
+    margin-right: 5px;
+    margin-top: -5px;
 }
 
 
