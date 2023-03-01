@@ -118,8 +118,8 @@ padre>diaporamademo*/
 				{ name: 'Icono flecha arriba', element: 'span', attributes: { 'class': 'icon icon-flecha-arriba' } },
 				{ name: 'Icono flecha abajo', element: 'span', attributes: { 'class': 'icon icon-flecha-abajo' } },
 				{ name: 'Icono flecha amarilla', element: 'span', attributes: { 'class': 'icon icon-flecha-amarilla' } },
-				{ name: 'Icono flecha negra arriba', element: 'span', attributes: { 'class': 'icon icon-flecha-arriba' } },
-				{ name: 'Icono flecha negra abajo', element: 'span', attributes: { 'class': 'icon icon-flecha-abajo' } },
+				{ name: 'Icono flecha negra arriba', element: 'span', attributes: { 'class': 'icon icon-flecha-negra-arriba' } },
+				{ name: 'Icono flecha negra abajo', element: 'span', attributes: { 'class': 'icon icon-flecha-negra-abajo' } },
 				
 				{ name: 'Tabla 01', element: 'table', attributes: { 'class': 'bck-table-1' } },
 				{ name: 'Tabla 02', element: 'table', attributes: { 'class': 'bck-table-2' } },
