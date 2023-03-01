@@ -3622,6 +3622,22 @@ border: 0;
     margin-top: -5px;
 }
 
+.item-container .icon-flecha-negra-arriba:before {
+    background-image: url(images/icono_flechaarriba_negra_diaporama.png);
+    width: 49px;
+    height: 26px;
+    margin-right: 5px;
+    margin-top: 0px;
+}
+
+.item-container .icon-flecha-negra-abajo:before {
+    background-image: url(images/icono_flechaabajo_negra_diaporama.png);
+    width: 49px;
+    height: 26px;
+    margin-right: 5px;
+    margin-top: 0px;
+}
+
 
 /*tablas*/
 
