@@ -887,13 +887,6 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover .title {
     cursor: pointer
 }
 
-.units ul#list-units .unittag_punteado_diaporamademo a .title:hover {
-    color: #fff
-}
-
-#list-units .unittag_punteado_diaporamademo:hover span.title {
-    color: #fff!important
-}
 
 #book-index #indice .unit-content .actividades .item:hover span.title,
 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover span.text {
@@ -3926,9 +3919,6 @@ table td.bck-td-12 {
 
 /**/
 
-#list-units .unittag_no_unidad_diaporamademo {
-    background-color: #27A798 !important
-}
 
 
 
@@ -4221,6 +4211,9 @@ body:not(.edit) .back .bck-flipbox-section,body:not(.edit) .back .bck-flipbox-ti
     }
 }
 
+/*TAGS*/
+/*UNITTAGS*/
+
 #list-units .unittag_textbook_diaporamademo {
     background: #000!important
 }
@@ -4244,6 +4237,48 @@ body:not(.edit) .back .bck-flipbox-section,body:not(.edit) .back .bck-flipbox-ti
 #list-units .unittag_activities_diaporamademo:hover {
     background: rgba(51,51,51,.49019607843137253)!important
 }
+
+#list-units .unittag_no_unidad_diaporamademo {
+    background-color: #27A798 !important
+}
+
+/*COURSETAG*/
+.coursetag_logo_diaporama .content_type_curso_diaporamademo .libro-left ul li .title:before {
+    display: none;
+    content: "";
+    background-size: contain;
+    top: 10px;
+    background-image: url(images/logofrenchhub_diaporamademo.png)!important;
+    position: fixed;
+    width: 80px;
+    height: 40px;
+    background-repeat: no-repeat;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+    opacity: 1
+}
+
+.content_type_curso_diaporamademo.content_type_clase_diaporamademo .libro-left ul li .title:before {
+    opacity: 0
+}
+
+.coursetag_logo_diaporama .navbar-content .logo-publisher {
+    display: inline-block;
+    position: absolute;
+    top: -3px;
+    left: 10px;
+    width: 100px;
+    height: 44px;
+    background: url(images/logofrenchhub_diaporamademo.png) 0 0 no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: 50%
+}
+
 
 #indice .unit-content .header .title {
     display: none
