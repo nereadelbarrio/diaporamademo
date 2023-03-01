@@ -4244,7 +4244,6 @@ body:not(.edit) .back .bck-flipbox-section,body:not(.edit) .back .bck-flipbox-ti
 
 /*COURSETAG*/
 .coursetag_logo_diaporama .content_type_curso_diaporamademo .libro-left ul li .title:before {
-    display: none;
     content: "";
     background-size: contain;
     top: 10px;
