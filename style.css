@@ -2605,16 +2605,21 @@ hr {
     background: transparent;
     border: none;
     text-align: left;
-    border-radius: 0
+    border-radius: 0;
+    background-image: url(images/icono_caja_sierra.png);
+    background-repeat: repeat-x;
+    background-position: top;
+    background-size: auto;
+    padding: 10px 0 0 0;
 }
 
 .bck-box-5>.bck-title {
-    border: 0;
+border: 0;
     color: #000;
     text-align: left;
     font-size: 2rem;
     background: #E1EFF2;
-    padding: 10px 20px 0;
+    padding: 20px 20px 0;
     font-weight: 700;
 }
 
