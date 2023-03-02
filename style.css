@@ -1501,6 +1501,12 @@ body.is_app .diaporamademo-navbar.ocultar {
     transform: rotate(120deg);
 }
 
+.bck-enfasis-28 {
+    color: #005DA9;
+    font-style: italic;
+    border-bottom: 2px dotted #000;
+}
+
 ---------
 
 
