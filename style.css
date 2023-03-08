@@ -2921,6 +2921,7 @@ border: 0;
     color: #333;
     background: #FBF9F7;
     padding: 5px;
+    text-align: left;
 }
 
 .bck-box.bck-box-14>.bck-title:before {
