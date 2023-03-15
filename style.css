@@ -4062,7 +4062,6 @@ body:not(.edit) .back .bck-flipbox-section,body:not(.edit) .back .bck-flipbox-ti
     border-top-right-radius: 0px;
     border-bottom-right-radius: 0px;
     text-overflow: ellipsis;
-    white-space: nowrap;
     overflow: hidden;
 }
 
